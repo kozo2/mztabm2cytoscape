@@ -1,0 +1,1558 @@
+pathway,pathwayTitle,total_inchikeys,matched,ratio
+WP2910,Mecp2 and associated Rett syndrome,2,2,1.0
+WP3812,SALM protein interactions at the synapse,2,2,1.0
+WP432,Asparagine degradation,2,2,1.0
+WP178,Isoleucine degradation,1,1,1.0
+WP1811,Eukaryotic translation elongation,1,1,1.0
+WP1917,Signaling by Rho GTPases,1,1,1.0
+WP2686,Regulation of cholesterol biosynthesis by SREBP (SREBF),1,1,1.0
+WP3658,Wnt/beta-catenin signaling pathway in leukemia,1,1,1.0
+WP3853,ERK pathway in Huntington's disease,1,1,1.0
+WP4054,Synaptic adhesion-like molecules,1,1,1.0
+WP4389,Bile acids synthesis and enterohepatic circulation,1,1,1.0
+WP4522,"Metabolic pathway of LDL, HDL and TG, including diseases",1,1,1.0
+WP5092,Interactions of natural killer cells in pancreatic cancer,1,1,1.0
+WP5108,Familial  hyperlipidemia type 1,1,1,1.0
+WP5109,Familial hyperlipidemia type 2,1,1,1.0
+WP5110,Familial hyperlipidemia type 3,1,1,1.0
+WP5112,Familial hyperlipidemia type 5,1,1,1.0
+WP218,Serine and glycine biosynthesis,5,4,0.8
+WP3142,Glycine metabolism,4,3,0.75
+WP5049,Glycolysis in senescence,4,3,0.75
+WP4241,Type 2 papillary renal cell carcinoma,3,2,0.6666666666666666
+WP4549,Fragile X syndrome,3,2,0.6666666666666666
+WP5015,Amino acids regulate mTORC1,3,2,0.6666666666666666
+WP3355,"BMAL1:CLOCK,NPAS2 activates circadian gene expression",5,3,0.6
+WP3370,RORA activates gene expression,5,3,0.6
+WP4232,Biosynthesis of gamma-aminobutyric acid (GABA) by polyamine oxidation,5,3,0.6
+WP469,Glutathione metabolism,5,3,0.6
+WP67,Asparagine biosynthesis,5,3,0.6
+WP715,Amino acid conjugation,5,3,0.6
+WP54,Arginine degradation,9,5,0.5555555555555556
+WP4571,Urea cycle and related diseases,13,7,0.5384615384615384
+WP4583,Biomarkers for urea cycle disorders,17,9,0.5294117647058824
+WP5029,Amino acid transport defects (IEMs),23,12,0.5217391304347826
+WP1938,tRNA aminoacylation,12,6,0.5
+WP2566,Glyoxylate cycle,8,4,0.5
+WP1872,Neurotransmitter uptake and metabolism In glial cells,6,3,0.5
+WP2706,Activation of gene expression by SREBF (SREBP),6,3,0.5
+WP290,Polyamine biosynthesis,6,3,0.5
+WP1982,Sterol regulatory element-binding proteins (SREBP) signaling,4,2,0.5
+WP3194,SREBP signaling,4,2,0.5
+WP3348,Macroautophagy,4,2,0.5
+WP3901,Lipid droplet metabolism,4,2,0.5
+WP627,Triacylglycerol biosynthesis,4,2,0.5
+WP84,NAD biosynthesis,4,2,0.5
+WP1019,FAS pathway and stress induction of HSP regulation,2,1,0.5
+WP1138,FAS pathway and stress induction of HSP regulation,2,1,0.5
+WP227,Osteoblast signaling,2,1,0.5
+WP238,Osteoblast signaling,2,1,0.5
+WP2944,Cytokinin signaling,2,1,0.5
+WP314,Fas ligand pathway and stress induction of heat shock proteins,2,1,0.5
+WP3297,EV release from cardiac cells and their functional effects,2,1,0.5
+WP3310,Mitochondrial translation,2,1,0.5
+WP354,Leucine degradation,2,1,0.5
+WP3601,Lipid particles composition,2,1,0.5
+WP4053,TBC/RABGAPs,2,1,0.5
+WP414,Cell cycle and cell division,2,1,0.5
+WP4172,PI3K-Akt signaling pathway,2,1,0.5
+WP5222,2q13 copy number variation syndrome,2,1,0.5
+WP5239,Lac-Phe pathway,2,1,0.5
+WP5240,Lac-Phe pathway,2,1,0.5
+WP5255,SARS-CoV-2 envelope lipid composition and human cell binding,2,1,0.5
+WP5323,Fatty Acids and Lipoproteins Transport in Hepatocytes,2,1,0.5
+WP571,FAS pathway and stress induction of HSP regulation,2,1,0.5
+WP788,FAS pathway and stress induction of HSP regulation,2,1,0.5
+WP902,FAS pathway and stress induction of HSP regulation,2,1,0.5
+WP5298,Dravet syndrome: Scn1a-A1783V point mutation model,9,4,0.4444444444444444
+WP191,Glutamate biosynthesis superpathway,7,3,0.42857142857142855
+WP196,Glutathione biosynthesis,7,3,0.42857142857142855
+WP2563,TCA cycle,7,3,0.42857142857142855
+WP5078,T cell modulation in pancreatic cancer,7,3,0.42857142857142855
+WP77,Glutamate biosynthesis,7,3,0.42857142857142855
+WP3953,"mRNA, protein, and metabolite inducation pathway by cyclosporin A",12,5,0.4166666666666667
+WP3584,MECP2 and associated Rett syndrome,10,4,0.4
+WP390,Serine-isocitrate lyase pathway,10,4,0.4
+WP1247,Methylation,5,2,0.4
+WP128,Homocysteine and cysteine interconversion,5,2,0.4
+WP1282,Methylation,5,2,0.4
+WP1843,L1CAM interactions,5,2,0.4
+WP2659,Deadenylation-dependent mRNA decay,5,2,0.4
+WP2748,Energy dependent regulation of mTOR by LKB1-AMPK,5,2,0.4
+WP2777,Translocation of SLC2A4 (GLUT4) to the plasma membrane,5,2,0.4
+WP2868,TCA cycle nutrient use and invasiveness of ovarian cancer,5,2,0.4
+WP3252,TCA cycle nutrient use and invasiveness of ovarian cancer,5,2,0.4
+WP3309,EPH-Ephrin signaling,5,2,0.4
+WP3552,tRNA processing in the nucleus,5,2,0.4
+WP4075,Carboxyterminal post-translational modifications of tubulin,5,2,0.4
+WP704,Methylation pathways,5,2,0.4
+WP9,Phospholipid biosynthesis,5,2,0.4
+WP992,Methylation pathways,5,2,0.4
+WP4595,Urea cycle and associated pathways,26,10,0.38461538461538464
+WP4159,GABA receptor signaling,8,3,0.375
+WP4973,Urea cycle,22,8,0.36363636363636365
+WP661,Glucose homeostasis,22,8,0.36363636363636365
+WP347,TCA cycle,11,4,0.36363636363636365
+WP423,Threonine and methionine biosynthesis,11,4,0.36363636363636365
+WP275,Arginine biosynthesis,14,5,0.35714285714285715
+WP3245,Urea cycle and metabolism of amino groups,30,10,0.3333333333333333
+WP106,Alanine and aspartate metabolism,21,7,0.3333333333333333
+WP3262,Alanine and aspartate metabolism,18,6,0.3333333333333333
+WP4206,Hereditary leiomyomatosis and renal cell carcinoma pathway,18,6,0.3333333333333333
+WP7,Sulfur amino acid biosynthesis,15,5,0.3333333333333333
+WP203,De novo biosynthesis of purine nucleotides,12,4,0.3333333333333333
+WP1008,Amino acid conjugation of benzoic acid,9,3,0.3333333333333333
+WP1227,TCA cycle,9,3,0.3333333333333333
+WP1252,Amino acid conjugation of benzoic acid,9,3,0.3333333333333333
+WP1287,Amino acid conjugation of benzoic acid,9,3,0.3333333333333333
+WP1495,Glycine metabolism,9,3,0.3333333333333333
+WP1518,Aspartate biosynthesis,9,3,0.3333333333333333
+WP19,TCA cycle,9,3,0.3333333333333333
+WP2735,RAF/MAP kinase cascade,9,3,0.3333333333333333
+WP2751,Transcriptional regulation of white adipocyte differentiation,9,3,0.3333333333333333
+WP3800,Protein repair,9,3,0.3333333333333333
+WP434,TCA cycle,9,3,0.3333333333333333
+WP4518,"Gamma-glutamyl cycle for the biosynthesis and degradation of glutathione, including diseases",9,3,0.3333333333333333
+WP5046,NAD metabolism in oncogene-induced senescence and mitochondrial dysfunction-associated senescence,9,3,0.3333333333333333
+WP5313,Carnosine metabolism of glial cells,9,3,0.3333333333333333
+WP1020,Fatty acid biosynthesis,6,2,0.3333333333333333
+WP2208,Cardiolipin biosynthesis,6,2,0.3333333333333333
+WP357,Fatty acid biosynthesis,6,2,0.3333333333333333
+WP1,Statin pathway,3,1,0.3333333333333333
+WP1074,Osteoblast signaling,3,1,0.3333333333333333
+WP1118,Biogenic amine synthesis,3,1,0.3333333333333333
+WP1281,Hypothetical network for drug addiction,3,1,0.3333333333333333
+WP145,Statin pathway,3,1,0.3333333333333333
+WP1812,Eukaryotic translation initiation,3,1,0.3333333333333333
+WP1861,mRNA Capping,3,1,0.3333333333333333
+WP1866,NCAM signaling for neurite out-growth,3,1,0.3333333333333333
+WP1889,Processing of Capped Intron-Containing Pre-mRNA,3,1,0.3333333333333333
+WP1892,Protein folding,3,1,0.3333333333333333
+WP212,Triacylglyceride synthesis,3,1,0.3333333333333333
+WP266,Triglyceride biosynthesis,3,1,0.3333333333333333
+WP2672,ISG15 antiviral mechanism,3,1,0.3333333333333333
+WP2684,Host Interactions of HIV factors,3,1,0.3333333333333333
+WP2778,SUMOylation,3,1,0.3333333333333333
+WP3212,Membrane trafficking,3,1,0.3333333333333333
+WP322,Osteoblast signaling,3,1,0.3333333333333333
+WP3224,Synaptic vesicle pathway,3,1,0.3333333333333333
+WP3318,MTOR signaling,3,1,0.3333333333333333
+WP3335,Signaling by FGFR1,3,1,0.3333333333333333
+WP3338,Signaling by FGFR2,3,1,0.3333333333333333
+WP3538,Septum site determination,3,1,0.3333333333333333
+WP3571,Gene Silencing by RNA,3,1,0.3333333333333333
+WP3575,Endosomal sorting complex required for transport,3,1,0.3333333333333333
+WP3578,trans-Golgi Network Vesicle Budding,3,1,0.3333333333333333
+WP3638,Parkinson's disease,3,1,0.3333333333333333
+WP3838,Regulation of TP53 Activity through Phosphorylation,3,1,0.3333333333333333
+WP4125,Protein ubiquitination,3,1,0.3333333333333333
+WP4191,Caloric restriction and aging,3,1,0.3333333333333333
+WP4441,COPI-mediated anterograde transport,3,1,0.3333333333333333
+WP4461,DNA Replication Pre-Initiation,3,1,0.3333333333333333
+WP4846,SARS-CoV-2 and COVID-19 pathway,3,1,0.3333333333333333
+WP4942,15q13.3 copy number variation syndrome,3,1,0.3333333333333333
+WP4980,Alanine metabolism,3,1,0.3333333333333333
+WP4985,Lipophagy,3,1,0.3333333333333333
+WP5000,FCGR3A-mediated phagocytosis,3,1,0.3333333333333333
+WP5007,Assembly and cell surface presentation of NMDA receptors,3,1,0.3333333333333333
+WP5013,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,3,1,0.3333333333333333
+WP5111,Familial hyperlipidemia type 4,3,1,0.3333333333333333
+WP5192,Modulation of PI3K-Akt-mTOR signaling by bioactive sphingolipids,3,1,0.3333333333333333
+WP5294,Sildenafil treatment,3,1,0.3333333333333333
+WP956,Osteoblast signaling,3,1,0.3333333333333333
+WP3622,AtMetExpress overview,143,47,0.32867132867132864
+WP497,Urea cycle and metabolism of amino groups,31,10,0.3225806451612903
+WP4290,Metabolic reprogramming in colon cancer,32,10,0.3125
+WP46,Methionine degradation,16,5,0.3125
+WP730,Glutathione and one-carbon metabolism,16,5,0.3125
+WP3331,Mitochondrial biogenesis,13,4,0.3076923076923077
+WP4466,Oxidative stress and redox pathway,20,6,0.3
+WP256,Cysteine biosynthesis from homoserine,10,3,0.3
+WP459,Serine biosynthesis,10,3,0.3
+WP513,Catecholamine synthesis,10,3,0.3
+WP521,Amino acid conjugation of benzoic acid,10,3,0.3
+WP5213,Amino acid metabolism in triple-negative breast cancer cells,17,5,0.29411764705882354
+WP2333,Trans-sulfuration pathway,14,4,0.2857142857142857
+WP3145,Trans-sulfuration pathway,14,4,0.2857142857142857
+WP3996,Ethanol effects on histone modifications,14,4,0.2857142857142857
+WP4853,Linoleic acid metabolism affected by SARS-CoV-2,14,4,0.2857142857142857
+WP1642,D-arginine and D-ornithine metabolism,7,2,0.2857142857142857
+WP1906,RNA Polymerase II Transcription,7,2,0.2857142857142857
+WP2267,Synaptic vesicle pathway,7,2,0.2857142857142857
+WP3401,Hedgehog ligand biogenesis,7,2,0.2857142857142857
+WP4459,"Glutamate binding, activation of AMPA receptors and synaptic plasticity",7,2,0.2857142857142857
+WP4905,1q21.1 copy number variation syndrome,7,2,0.2857142857142857
+WP568,Fatty acid biosynthesis,7,2,0.2857142857142857
+WP573,Phenylalanine degradation,7,2,0.2857142857142857
+WP5312,Metabolic pathways of fibroblasts,22,6,0.2727272727272727
+WP1797,Circadian Clock,11,3,0.2727272727272727
+WP2638,"Glyoxylate, anapleurotic and succinyl CoA (GAS) pathway",11,3,0.2727272727272727
+WP2863,Krebs cycle,11,3,0.2727272727272727
+WP490,TCA cycle,11,3,0.2727272727272727
+WP1936,Transport of inorganic cations/anions and amino acids/oligopeptides,37,10,0.2702702702702703
+WP4131,Triglyceride metabolism,15,4,0.26666666666666666
+WP2484,NAD biosynthesis I from aspartate,20,5,0.25
+WP3009,TCA cycle (plant),20,5,0.25
+WP3149,TCA cycle and deficiency of pyruvate dehydrogenase complex (PDHc),16,4,0.25
+WP4661,Amino acid metabolism pathway excerpt: histidine catabolism extension,16,4,0.25
+WP321,Nucleotide metabolism,12,3,0.25
+WP503,Glutamate degradation III,12,3,0.25
+WP575,Anaerobic respiration,12,3,0.25
+WP1355,One-carbon metabolism,8,2,0.25
+WP159,UDP-N-acetylgalactosamine biosynthesis,8,2,0.25
+WP198,"Isoleucine, leucine, and valine biosynthesis",8,2,0.25
+WP2456,HIF1A and PPARG regulation of glycolysis,8,2,0.25
+WP261,Glycine biosynthesis,8,2,0.25
+WP328,Allantoin degradation,8,2,0.25
+WP359,Isoleucine and valine biosynthesis,8,2,0.25
+WP3680,Physico-chemical features and toxicity-associated pathways,8,2,0.25
+WP4065,Clathrin-mediated endocytosis,8,2,0.25
+WP538,Tyrosine biosynthesis,8,2,0.25
+WP70,"Trehalose degradation, low osmolarity",8,2,0.25
+WP1401,Neurotransmitter release in cholinergic motor neurons,4,1,0.25
+WP1813,Eukaryotic translation termination,4,1,0.25
+WP1835,Interferon alpha/beta signaling,4,1,0.25
+WP1836,Interferon gamma signaling,4,1,0.25
+WP1841,Intrinsic Pathway for Apoptosis,4,1,0.25
+WP1845,MAPK targets/ Nuclear events mediated by MAP kinases,4,1,0.25
+WP1858,Mitotic G1 phase and G1/S transition,4,1,0.25
+WP1907,Semaphorin interactions,4,1,0.25
+WP1913,Signaling by insulin receptor,4,1,0.25
+WP1916,Signaling by PDGF,4,1,0.25
+WP1918,Signaling by ROBO receptors,4,1,0.25
+WP2353,Vitamin B9 (folate) biosynthesis pathway,4,1,0.25
+WP2371,Parkinson's disease pathway,4,1,0.25
+WP2636,Common pathways underlying drug addiction,4,1,0.25
+WP2679,MHC class II antigen presentation,4,1,0.25
+WP2717,Mitochondrial protein import,4,1,0.25
+WP2742,Signaling by TGF-beta Receptor Complex,4,1,0.25
+WP3151,Semaphorin interactions,4,1,0.25
+WP3237,Thyroxine (thyroid hormone) production,4,1,0.25
+WP3307,MAPK6/MAPK4 signaling,4,1,0.25
+WP3332,RAF-independent MAPK1/3 activation,4,1,0.25
+WP3334,Signaling by FGFR4,4,1,0.25
+WP3357,RHO GTPases activate PKNs,4,1,0.25
+WP3365,RHO GTPases activate ROCKs,4,1,0.25
+WP3498,Assembly of the primary cilium,4,1,0.25
+WP3795,Striated Muscle Contraction,4,1,0.25
+WP3807,Regulation of TP53 Expression and Degradation,4,1,0.25
+WP4037,Pyrophosphate hydrolysis,4,1,0.25
+WP4069,Regulation of TLR by endogenous ligand,4,1,0.25
+WP4087,Keratinization,4,1,0.25
+WP4117,Regulation of RUNX1 Expression and Activity,4,1,0.25
+WP4120,Signaling by MET,4,1,0.25
+WP4121,Neddylation,4,1,0.25
+WP4124,Cilium Assembly,4,1,0.25
+WP4298,Acute viral myocarditis,4,1,0.25
+WP4430,COPII-mediated vesicle transport,4,1,0.25
+WP4452,Signaling by NTRK3 (TRKC),4,1,0.25
+WP4456,Activation of kainate receptors upon glutamate binding,4,1,0.25
+WP4457,GABA receptor activation,4,1,0.25
+WP5047,RHOBTB GTPase Cycle,4,1,0.25
+WP5181,Roles of ceramides in development of insulin resistance,4,1,0.25
+WP5200,Dravet syndrome,4,1,0.25
+WP5264,Purinergic signaling elements and coagulation in COVID-19,4,1,0.25
+WP5376,17p13.3 (YWHAE) copy number variation,4,1,0.25
+WP890,Osteoclast signaling,4,1,0.25
+WP27,"Phenylalanine, tyrosine, and tryptophan biosynthesis",29,7,0.2413793103448276
+WP3555,Metabolism of polyamines,21,5,0.23809523809523808
+WP125,Biogenic amine synthesis,17,4,0.23529411764705882
+WP154,Biogenic amine synthesis,17,4,0.23529411764705882
+WP171,NAD salvage pathway,17,4,0.23529411764705882
+WP2453,TCA cycle and deficiency of pyruvate dehydrogenase complex (PDHc),17,4,0.23529411764705882
+WP416,"Histidine, purine, and pyrimidine superpathway",17,4,0.23529411764705882
+WP435,One-carbon metabolism,17,4,0.23529411764705882
+WP5190,Creatine pathway,17,4,0.23529411764705882
+WP522,Biogenic amine synthesis,17,4,0.23529411764705882
+WP4157,GABA metabolism (aka GHB),26,6,0.23076923076923078
+WP331,Threonine biosynthesis,13,3,0.23076923076923078
+WP4292,Methionine metabolism leading to sulfur amino acids and related disorders,22,5,0.22727272727272727
+WP4992,Glutamate and glutamine metabolism,22,5,0.22727272727272727
+WP5220,Metabolic reprogramming in pancreatic cancer,22,5,0.22727272727272727
+WP3168,Biogenic amine synthesis,18,4,0.2222222222222222
+WP4917,Proximal tubule transport,18,4,0.2222222222222222
+WP550,Biogenic amine synthesis,18,4,0.2222222222222222
+WP1531,Vitamin D metabolism,9,2,0.2222222222222222
+WP1589,Folate-alcohol and cancer pathway hypotheses,9,2,0.2222222222222222
+WP296,TCA cycle - detailed,9,2,0.2222222222222222
+WP3120,Folate-alcohol and cancer pathway,9,2,0.2222222222222222
+WP3162,Vitamin D metabolism,9,2,0.2222222222222222
+WP4129,"Plasma lipoprotein assembly, remodeling, and clearance",9,2,0.2222222222222222
+WP463,Purine fermentation,9,2,0.2222222222222222
+WP3925,Amino acid metabolism,96,21,0.21875
+WP662,Amino acid metabolism,96,21,0.21875
+WP4259,Disorders of folate metabolism and transport,23,5,0.21739130434782608
+WP4979,Aspartate and asparagine metabolism,23,5,0.21739130434782608
+WP5083,Neuroinflammation and glutamatergic signaling,23,5,0.21739130434782608
+WP100,Glutathione metabolism,14,3,0.21428571428571427
+WP164,Glutathione metabolism,14,3,0.21428571428571427
+WP165,Tryptophan biosynthesis,14,3,0.21428571428571427
+WP2797,Regulation of lipid metabolism by PPARalpha,14,3,0.21428571428571427
+WP3207,Glutathione metabolism,14,3,0.21428571428571427
+WP3211,Nucleotide metabolism,14,3,0.21428571428571427
+WP4008,NO/cGMP/PKG mediated neuroprotection,14,3,0.21428571428571427
+WP472,Phosphatidic acid and phospholipid biosynthesis,14,3,0.21428571428571427
+WP5002,Creatine metabolism,14,3,0.21428571428571427
+WP3583,Central carbon metabolism,19,4,0.21052631578947367
+WP4236,Krebs cycle disorders,19,4,0.21052631578947367
+WP2525,"Trans-sulfuration, one-carbon metabolism and related pathways",50,10,0.2
+WP4657,22q11.2 copy number variation syndrome,25,5,0.2
+WP241,One-carbon metabolism,20,4,0.2
+WP2624,TCA cycle (Krebs cycle),20,4,0.2
+WP2728,"Incretin synthesis, secretion, and inactivation",20,4,0.2
+WP3349,TP53 Regulates Metabolic Genes,20,4,0.2
+WP2685,"GABA synthesis, release, reuptake and degradation",15,3,0.2
+WP3130,SIDS susceptibility pathways,15,3,0.2
+WP4435,Serine biosynthesis,15,3,0.2
+WP706,Sudden infant death syndrome (SIDS) susceptibility pathways,15,3,0.2
+WP194,Phenylalanine biosynthesis,10,2,0.2
+WP2447,Amyotrophic lateral sclerosis (ALS),10,2,0.2
+WP301,Tryptophan degradation,10,2,0.2
+WP3243,Amyotrophic lateral sclerosis (ALS),10,2,0.2
+WP504,Fatty acid biosynthesis,10,2,0.2
+WP1099,Nuclear receptors in lipid metabolism and toxicity,5,1,0.2
+WP1326,Nuclear receptors in lipid metabolism and toxicity,5,1,0.2
+WP139,Nuclear receptors in lipid metabolism and toxicity,5,1,0.2
+WP1794,Cell surface interactions at the vascular wall,5,1,0.2
+WP1799,Costimulation by the CD28 family,5,1,0.2
+WP180,Leucine biosynthesis,5,1,0.2
+WP1927,TCR signaling,5,1,0.2
+WP2293,Biosynthesis and regulation of nematode bile acids,5,1,0.2
+WP2657,Growth hormone receptor signaling,5,1,0.2
+WP2683,Influenza Infection,5,1,0.2
+WP2708,Collagen degradation,5,1,0.2
+WP2729,Metabolism of angiotensinogen to angiotensins,5,1,0.2
+WP3336,Signaling by FGFR3,5,1,0.2
+WP3351,RHO GTPases activate PAKs,5,1,0.2
+WP3379,RHO GTPases activate formins,5,1,0.2
+WP38,Fatty acid biosynthesis,5,1,0.2
+WP4035,Intestinal absorption,5,1,0.2
+WP4448,PI3K Cascade,5,1,0.2
+WP4460,OAS antiviral response,5,1,0.2
+WP5238,Cholestasis,5,1,0.2
+WP863,Nuclear receptors in lipid metabolism and toxicity,5,1,0.2
+WP92,De novo biosynthesis of pyrimidine ribonucleotides,21,4,0.19047619047619047
+WP4297,Thiamine metabolic pathways,16,3,0.1875
+WP1770,One-carbon metabolism and related pathways,38,7,0.18421052631578946
+WP78,TCA cycle (aka Krebs or citric acid cycle),22,4,0.18181818181818182
+WP999,TCA cycle,22,4,0.18181818181818182
+WP2487,NAD salvage pathway II,11,2,0.18181818181818182
+WP2759,Fc epsilon receptor (FCERI) signaling,11,2,0.18181818181818182
+WP2862,Glycolysis,11,2,0.18181818181818182
+WP345,Glycine degradation,11,2,0.18181818181818182
+WP3860,Glucose sensing and signaling,11,2,0.18181818181818182
+WP398,Trehalose anabolism,11,2,0.18181818181818182
+WP4345,Glycerolipids and glycerophospholipids,11,2,0.18181818181818182
+WP4486,Role of carnosine in muscle contraction,11,2,0.18181818181818182
+WP4722,Glycerolipids and glycerophospholipids,11,2,0.18181818181818182
+WP5050,TCA cycle in senescence,11,2,0.18181818181818182
+WP5356,Disturbed pathways in Duchenne Muscular Dystrophy,11,2,0.18181818181818182
+WP5402,10q22q23 copy number variation,11,2,0.18181818181818182
+WP4104,Digestion,28,5,0.17857142857142858
+WP1027,Glycolysis and gluconeogenesis,17,3,0.17647058823529413
+WP157,Glycolysis and gluconeogenesis,17,3,0.17647058823529413
+WP2486,NAD salvage pathway I,17,3,0.17647058823529413
+WP3198,Glycerophospholipid biosynthetic pathway,29,5,0.1724137931034483
+WP1871,Neurotransmitter release cycle,36,6,0.16666666666666666
+WP1493,Carbon assimilation C4 pathway,30,5,0.16666666666666666
+WP2859,Primary carbon metabolism,30,5,0.16666666666666666
+WP4228,Vitamin B6-dependent and responsive disorders,18,3,0.16666666666666666
+WP4586,Metabolism of alpha-linolenic acid,18,3,0.16666666666666666
+WP2,Valine biosynthesis,12,2,0.16666666666666666
+WP2747,PI Metabolism,12,2,0.16666666666666666
+WP1013,Triacylglyceride synthesis,6,1,0.16666666666666666
+WP1041,Statin pathway,6,1,0.16666666666666666
+WP109,UDP-glucose conversion,6,1,0.16666666666666666
+WP2652,Mitotic Prometaphase,6,1,0.16666666666666666
+WP2653,PIP3 activates AKT signaling,6,1,0.16666666666666666
+WP2727,Cellular response to hypoxia,6,1,0.16666666666666666
+WP2755,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,6,1,0.16666666666666666
+WP2772,S Phase,6,1,0.16666666666666666
+WP2780,Signaling by ERBB2,6,1,0.16666666666666666
+WP299,Nuclear receptors in lipid metabolism and toxicity,6,1,0.16666666666666666
+WP325,Triacylglyceride synthesis,6,1,0.16666666666666666
+WP3345,Resolution of Abasic Sites (AP sites),6,1,0.16666666666666666
+WP3965,Lipid metabolism pathway,6,1,0.16666666666666666
+WP430,Statin inhibition of cholesterol production,6,1,0.16666666666666666
+WP4304,"Oligodendrocyte specification and differentiation, leading to myelin components for CNS",6,1,0.16666666666666666
+WP431,Nuclear receptors in lipid metabolism and toxicity,6,1,0.16666666666666666
+WP4589,Major receptors targeted by epinephrine and norepinephrine,6,1,0.16666666666666666
+WP5087,Pleural mesothelioma,6,1,0.16666666666666666
+WP5401,7q11.23 distal copy number variation,6,1,0.16666666666666666
+WP782,Triacylglyceride synthesis,6,1,0.16666666666666666
+WP981,Nuclear receptors in lipid metabolism and toxicity,6,1,0.16666666666666666
+WP5355,Metabolic Epileptic Disorders,85,14,0.16470588235294117
+WP4225,Pyrimidine metabolism and related diseases,37,6,0.16216216216216217
+WP5314,Lactate shuttle in glial cells,19,3,0.15789473684210525
+WP534,Glycolysis and gluconeogenesis,19,3,0.15789473684210525
+WP2533,Glycerophospholipid biosynthetic pathway,32,5,0.15625
+WP1935,"Transport of bile salts and organic acids, metal ions and amine compounds",52,8,0.15384615384615385
+WP2766,Citric acid cycle and respiratory electron transport,39,6,0.15384615384615385
+WP4084,Nucleobase biosynthesis,39,6,0.15384615384615385
+WP14,Sucrose biosynthesis,13,2,0.15384615384615385
+WP1928,Telomere Maintenance,13,2,0.15384615384615385
+WP2579,Cadmium and glutathione,13,2,0.15384615384615385
+WP2654,Mitotic Prophase,13,2,0.15384615384615385
+WP3577,Class I MHC mediated antigen processing and presentation,13,2,0.15384615384615385
+WP4061,Carnitine metabolism,13,2,0.15384615384615385
+WP4932,7q11.23 copy number variation syndrome,13,2,0.15384615384615385
+WP3580,Methionine de novo and salvage pathway,46,7,0.15217391304347827
+WP112,Principal pathways of carbon metabolism,33,5,0.15151515151515152
+WP4114,Fatty acyl-CoA biosynthesis,33,5,0.15151515151515152
+WP4093,Glucose metabolism,40,6,0.15
+WP4224,Purine metabolism and related disorders,40,6,0.15
+WP3192,Neurotransmitter release cycle,20,3,0.15
+WP3602,Metabolism overview,81,12,0.14814814814814814
+WP4724,Omega-9 fatty acid synthesis,27,4,0.14814814814814814
+WP3217,Iron uptake and transport,28,4,0.14285714285714285
+WP4351,Omega-9 fatty acid synthesis,28,4,0.14285714285714285
+WP4988,Histidine catabolism,21,3,0.14285714285714285
+WP2207,Beta-alanine biosynthesis,14,2,0.14285714285714285
+WP228,Deoxyribose phosphate metabolism,14,2,0.14285714285714285
+WP3399,"Base-Excision Repair, AP Site Formation",14,2,0.14285714285714285
+WP5178,Disorders of fructose metabolism,14,2,0.14285714285714285
+WP132,Cholesterol biosynthesis,7,1,0.14285714285714285
+WP137,"Fatty acid biosynthesis, initial steps",7,1,0.14285714285714285
+WP1859,Mitotic G2-G2/M phases,7,1,0.14285714285714285
+WP1873,Signaling by NTRK1,7,1,0.14285714285714285
+WP1980,Nucleotide Excision Repair,7,1,0.14285714285714285
+WP1995,Effects of nitric oxide,7,1,0.14285714285714285
+WP1996,Linoleate biosynthesis,7,1,0.14285714285714285
+WP3182,Effects of nitric oxide,7,1,0.14285714285714285
+WP3381,Mismatch Repair,7,1,0.14285714285714285
+WP3404,Oxidative Stress Induced Senescence,7,1,0.14285714285714285
+WP3811,Smooth Muscle Contraction,7,1,0.14285714285714285
+WP3816,Regulation of TP53 Activity through Acetylation,7,1,0.14285714285714285
+WP3842,Intra-Golgi and retrograde Golgi-to-ER traffic,7,1,0.14285714285714285
+WP4141,PI3K/AKT/mTOR - vitamin D3 signaling,7,1,0.14285714285714285
+WP4431,Integrin signaling,7,1,0.14285714285714285
+WP4947,Nitric oxide metabolism in cystic fibrosis,7,1,0.14285714285714285
+WP4971,Phosphoinositides metabolism,7,1,0.14285714285714285
+WP5121,Sphingolipid metabolism in senescence,7,1,0.14285714285714285
+WP5211,Glucose metabolism in triple-negative breast cancer cells,7,1,0.14285714285714285
+WP5381,Smith-Magenis and Potocki-Lupski syndrome copy number variation,7,1,0.14285714285714285
+WP5391,Representative anthocyanin biosynthetic pathway,7,1,0.14285714285714285
+WP4491,Elongation of (very) long chain fatty acids,45,6,0.13333333333333333
+WP1902,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",15,2,0.13333333333333333
+WP3354,C-type lectin receptors,15,2,0.13333333333333333
+WP3933,Kennedy pathway from sphingolipids,15,2,0.13333333333333333
+WP4162,Poly(glycerol phosphate) wall teichoic acid biosynthesis,23,3,0.13043478260869565
+WP2485,NAD biosynthesis II (from tryptophan),24,3,0.125
+WP3228,NAD biosynthesis II from tryptophan,24,3,0.125
+WP3839,Retinoid metabolism and transport,24,3,0.125
+WP1771,Kennedy pathway,16,2,0.125
+WP1780,ABC-family proteins mediated transport,16,2,0.125
+WP1978,Opioid signaling,16,2,0.125
+WP220,Ribose and deoxyribose phosphate metabolism,16,2,0.125
+WP3806,Metabolism of folate and pterines,16,2,0.125
+WP4072,Glycogen metabolism,16,2,0.125
+WP4113,Ketone body metabolism,16,2,0.125
+WP4271,Vitamin B12 disorders,16,2,0.125
+WP4838,Regucalcin in proximal tubule epithelial kidney cells,16,2,0.125
+WP4998,Cell recruitment (pro-inflammatory response),16,2,0.125
+WP1877,Passive transport by Aquaporins,8,1,0.125
+WP1903,Response to elevated platelet cytosolic Ca ions,8,1,0.125
+WP2658,HIV Life Cycle,8,1,0.125
+WP269,Heme biosynthesis,8,1,0.125
+WP2725,Collagen biosynthesis and modifying enzymes,8,1,0.125
+WP280,Carbon monoxide dehydrogenase pathway,8,1,0.125
+WP361,Xylulose-monophosphate cycle,8,1,0.125
+WP3828,rRNA modification in the nucleus and cytosol,8,1,0.125
+WP4233,Acrylamide biotransformation and exposure biomarkers,8,1,0.125
+WP4422,G alpha (z) signaling events,8,1,0.125
+WP4437,Signaling by PTK6,8,1,0.125
+WP4966,Fluoroacetic acid toxicity,8,1,0.125
+WP5195,Disorders in ketolysis,8,1,0.125
+WP5365,4p16.3 copy number variation,8,1,0.125
+WP5407,15q11q13 copy number variation,8,1,0.125
+WP5408,15q25 copy number variation,8,1,0.125
+WP1075,Folate metabolism,49,6,0.12244897959183673
+WP176,Folate metabolism,49,6,0.12244897959183673
+WP4424,G alpha (q) signaling events,49,6,0.12244897959183673
+WP4981,Phenylalanine and tyrosine metabolism,25,3,0.12
+WP2670,Iron uptake and transport,17,2,0.11764705882352941
+WP1273,Folic acid network,69,8,0.11594202898550725
+WP1311,Folic acid network,69,8,0.11594202898550725
+WP2712,Abacavir transport and metabolism,18,2,0.1111111111111111
+WP1356,Glycolysis and gluconeogenesis,9,1,0.1111111111111111
+WP1602,Nicotine effect on dopaminergic neurons,9,1,0.1111111111111111
+WP1981,Thyroxine (thyroid hormone) production,9,1,0.1111111111111111
+WP2719,Fcgamma receptor (FCGR) dependent phagocytosis,9,1,0.1111111111111111
+WP3179,Nicotine activity on dopaminergic neurons,9,1,0.1111111111111111
+WP3320,Miscellaneous transport and binding events,9,1,0.1111111111111111
+WP3372,"TET1,2,3 and TDG demethylate DNA",9,1,0.1111111111111111
+WP3395,Cellular response to heat stress,9,1,0.1111111111111111
+WP3567,HDR through Homologous Recombination or Single Strand Annealing,9,1,0.1111111111111111
+WP3992,Effect of L-carnitine on metabolism,9,1,0.1111111111111111
+WP4222,Phosphodiesterases in neuronal function,9,1,0.1111111111111111
+WP4432,ESR-mediated signaling,9,1,0.1111111111111111
+WP4919,Neuroinflammation,9,1,0.1111111111111111
+WP5016,FLT3 Signaling,9,1,0.1111111111111111
+WP5186,Vitamin K metabolism and activation of dependent proteins,9,1,0.1111111111111111
+WP5274,Farnesyl to CoQ10 metabolism,9,1,0.1111111111111111
+WP5315,Sebaleic acid formation and metabolism,9,1,0.1111111111111111
+WP4097,Nicotinate metabolism,46,5,0.10869565217391304
+WP156,Gluconeogenesis,19,2,0.10526315789473684
+WP4195,Phosphatidylcholine catabolism,19,2,0.10526315789473684
+WP4629,Aerobic glycolysis,19,2,0.10526315789473684
+WP4688,Serine metabolism,19,2,0.10526315789473684
+WP4022,Pyrimidine metabolism,40,4,0.1
+WP1831,Integration of energy metabolism,30,3,0.1
+WP4313,Ferroptosis,30,3,0.1
+WP5004,Lysine catabolism,30,3,0.1
+WP1885,Platelet homeostasis,20,2,0.1
+WP3869,Cannabinoid receptor signaling,20,2,0.1
+WP3916,Hexoses metabolism in proximal tubules,20,2,0.1
+WP4506,Tyrosine metabolism and related disorders,20,2,0.1
+WP1804,DNA Damage Reversal,10,1,0.1
+WP1910,Signaling by EGFR,10,1,0.1
+WP1925,Synthesis of DNA,10,1,0.1
+WP2622,Starch metabolism,10,1,0.1
+WP2688,DAG and IP3 signaling,10,1,0.1
+WP2757,Mitotic Metaphase and Anaphase,10,1,0.1
+WP3543,DNA Double Strand Break Response,10,1,0.1
+WP3558,Beta-catenin independent WNT signaling,10,1,0.1
+WP3679,Cell-type dependent selectivity of CCK2R signaling,10,1,0.1
+WP3810,Cardiac conduction,10,1,0.1
+WP3963,Mevalonate pathway,10,1,0.1
+WP5009,Proline catabolism,10,1,0.1
+WP508,Biosynthesis of aldosterone and cortisol,10,1,0.1
+WP86,Heme biosynthesis,10,1,0.1
+WP95,Pyrimidine ribonucleotide salvage pathways,10,1,0.1
+WP2724,Alpha-linolenic (omega-3) and linoleic (omega-6) acid metabolism,41,4,0.0975609756097561
+WP4584,Biomarkers for pyrimidine metabolism disorders,31,3,0.0967741935483871
+WP4059,Interconversion of nucleotide di- and triphosphates,42,4,0.09523809523809523
+WP2741,Inositol phosphate metabolism,21,2,0.09523809523809523
+WP4977,Extra-nuclear estrogen signaling,21,2,0.09523809523809523
+WP5333,Enterocyte cholesterol metabolism,21,2,0.09523809523809523
+WP1937,"Transport of vitamins, nucleosides, and related molecules",53,5,0.09433962264150944
+WP4419,Class A/1 (rhodopsin-like receptors),75,7,0.09333333333333334
+WP2621,Glycolysis,22,2,0.09090909090909091
+WP1002,Electron transport chain,11,1,0.09090909090909091
+WP111,Electron transport chain: OXPHOS system in mitochondria,11,1,0.09090909090909091
+WP1119,Electron transport chain,11,1,0.09090909090909091
+WP1339,Electron transport chain,11,1,0.09090909090909091
+WP295,Electron transport chain,11,1,0.09090909090909091
+WP3246,Endothelin pathways,11,1,0.09090909090909091
+WP3397,Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,11,1,0.09090909090909091
+WP4756,Renin-angiotensin-aldosterone system (RAAS),11,1,0.09090909090909091
+WP478,Glycogen catabolism,11,1,0.09090909090909091
+WP5216,Warburg effect modulated by deubiquitinating enzymes and their substrates,11,1,0.09090909090909091
+WP55,Steroid biosynthesis,11,1,0.09090909090909091
+WP563,Glycerol teichoic acid biosynthesis,11,1,0.09090909090909091
+WP1850,Metabolism of nitric oxide: NOS3 activation and regulation,23,2,0.08695652173913043
+WP4427,G alpha (s) signaling events,23,2,0.08695652173913043
+WP4598,Glucosinolate biosynthesis (from aromatic amino acid),23,2,0.08695652173913043
+WP5304,Cholesterol metabolism,23,2,0.08695652173913043
+WP2776,Visual phototransduction,35,3,0.08571428571428572
+WP1533,Vitamin B12 metabolism,47,4,0.0851063829787234
+WP3193,Vitamin B12 metabolism,47,4,0.0851063829787234
+WP1024,Steroid biosynthesis,12,1,0.08333333333333333
+WP1043,Calcium regulation in cardiac cell,12,1,0.08333333333333333
+WP1159,Calcium regulation in cardiac cells,12,1,0.08333333333333333
+WP1815,Factors involved in megakaryocyte development and platelet production,12,1,0.08333333333333333
+WP2197,Endothelin pathways,12,1,0.08333333333333333
+WP2263,Androgen receptor network in prostate cancer,12,1,0.08333333333333333
+WP2630,Gluconeogenesis,12,1,0.08333333333333333
+WP3232,Sphingolipid metabolism,12,1,0.08333333333333333
+WP3553,Synthesis of wybutosine at G37 of tRNA(Phe),12,1,0.08333333333333333
+WP381,"Riboflavin, FMN, and FAD biosynthesis",12,1,0.08333333333333333
+WP4058,HSP90 chaperone cycle for steroid hormone receptors (SHR),12,1,0.08333333333333333
+WP4142,Metabolism of sphingolipids in ER and Golgi apparatus,12,1,0.08333333333333333
+WP4288,MTHFR deficiency,12,1,0.08333333333333333
+WP4784,Proteoglycan biosynthesis,12,1,0.08333333333333333
+WP496,Steroid biosynthesis,12,1,0.08333333333333333
+WP5136,ALA oxylipin metabolism,12,1,0.08333333333333333
+WP5166,Glyoxylate metabolism,12,1,0.08333333333333333
+WP5169,Hemesynthesis defects and porphyrias,12,1,0.08333333333333333
+WP536,Calcium regulation in cardiac cells,12,1,0.08333333333333333
+WP553,Calcium regulation in cardiac cells,12,1,0.08333333333333333
+WP66,Steroid biosynthesis,12,1,0.08333333333333333
+WP808,Calcium regulation in cardiac cells,12,1,0.08333333333333333
+WP923,Calcium regulation in cardiac cells,12,1,0.08333333333333333
+WP3604,Biochemical pathways: part I,419,34,0.081145584725537
+WP4156,Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine,25,2,0.08
+WP4350,Omega-3 / omega-6 fatty acid synthesis,38,3,0.07894736842105263
+WP4723,Omega-3 / omega-6 fatty acid synthesis,38,3,0.07894736842105263
+WP2562,Relationship between glutathione and NADPH,39,3,0.07692307692307693
+WP4082,Nucleotide salvage,39,3,0.07692307692307693
+WP2762,"Gamma carboxylation, hypusine formation and arylsulfatase activation",26,2,0.07692307692307693
+WP4504,Cysteine and methionine catabolism,26,2,0.07692307692307693
+WP1186,Cholesterol biosynthesis,13,1,0.07692307692307693
+WP126,Fatty acid beta-oxidation 1,13,1,0.07692307692307693
+WP1387,Cholesterol biosynthesis,13,1,0.07692307692307693
+WP2848,Pluripotent stem cell differentiation pathway,13,1,0.07692307692307693
+WP3118,Monoamine transport,13,1,0.07692307692307693
+WP3223,Differentiation pathway,13,1,0.07692307692307693
+WP3579,Surfactant metabolism,13,1,0.07692307692307693
+WP3641,SK UDPglcnac,13,1,0.07692307692307693
+WP370,Sphingolipid metabolism,13,1,0.07692307692307693
+WP4090,Choline catabolism,13,1,0.07692307692307693
+WP4599,Glucosinolate biosynthesis from branched-chain amino acid,13,1,0.07692307692307693
+WP4698,Vitamin D-sensitive calcium signaling in depression,13,1,0.07692307692307693
+WP4941,GPR143 in melanocytes and retinal pigment epithelium cells,13,1,0.07692307692307693
+WP5137,Linoleic acid oxylipin metabolism,13,1,0.07692307692307693
+WP5224,2q37 copy number variation syndrome,13,1,0.07692307692307693
+WP5348,11p11.2 copy number variation syndrome,13,1,0.07692307692307693
+WP5380,5q35 copy number variation,13,1,0.07692307692307693
+WP727,Monoamine transport,13,1,0.07692307692307693
+WP833,Cholesterol biosynthesis,13,1,0.07692307692307693
+WP952,Cholesterol biosynthesis,13,1,0.07692307692307693
+WP15,Selenium micronutrient network,92,7,0.07608695652173914
+WP3257,Selenium micronutrient network,92,7,0.07608695652173914
+WP1310,Selenium micronutrient network,54,4,0.07407407407407407
+WP2740,Glycerophospholipid biosynthesis,41,3,0.07317073170731707
+WP1272,Selenium micronutrient network,55,4,0.07272727272727272
+WP103,Cholesterol biosynthesis,14,1,0.07142857142857142
+WP3114,Cori cycle,14,1,0.07142857142857142
+WP3561,tRNA modification in the nucleus and cytosol,14,1,0.07142857142857142
+WP4804,Cholesterol biosynthesis with skeletal dysplasias,14,1,0.07142857142857142
+WP3574,Sulfur amino acid metabolism,59,4,0.06779661016949153
+WP4042,Nucleobase catabolism,75,5,0.06666666666666667
+WP4050,Pentose phosphate pathway,30,2,0.06666666666666667
+WP1070,Cholesterol biosynthesis,15,1,0.06666666666666667
+WP1241,Glucuronidation,15,1,0.06666666666666667
+WP1276,Glucuronidation,15,1,0.06666666666666667
+WP1461,Photosynthetic carbon reduction,15,1,0.06666666666666667
+WP197,Cholesterol biosynthesis pathway,15,1,0.06666666666666667
+WP260,Glucose-1-phosphate metabolism,15,1,0.06666666666666667
+WP2784,Binding and uptake of ligands by scavenger receptors,15,1,0.06666666666666667
+WP3210,Glucuronidation,15,1,0.06666666666666667
+WP3644,NAD+ metabolism,15,1,0.06666666666666667
+WP3790,Wax and plasmalogen biosynthesis,15,1,0.06666666666666667
+WP4969,RAS and bradykinin pathways in COVID-19,15,1,0.06666666666666667
+WP4996,Carnitine synthesis,15,1,0.06666666666666667
+WP5194,Synthesis of ceramides and 1-deoxyceramides,15,1,0.06666666666666667
+WP5320,Male steroid hormones in cardiomyocyte energy metabolism,15,1,0.06666666666666667
+WP617,Ureide biosynthesis,15,1,0.06666666666666667
+WP632,Cholesterol metabolism,15,1,0.06666666666666667
+WP698,Glucuronidation,15,1,0.06666666666666667
+WP5060,Peptidoglycan cytoplasmic synthesis and recycling pathways,31,2,0.06451612903225806
+WP4096,Chromatin organization,16,1,0.0625
+WP515,Glycolysis and gluconeogenesis,16,1,0.0625
+WP4423,G alpha (i) signaling events,83,5,0.060240963855421686
+WP2185,Purine metabolism,50,3,0.06
+WP3556,Branched-chain amino acid catabolism,34,2,0.058823529411764705
+WP1422,Sphingolipid pathway,17,1,0.058823529411764705
+WP2623,Sucrose metabolism,17,1,0.058823529411764705
+WP5021,SARS-CoV-2 Infection,17,1,0.058823529411764705
+WP5043,Pentose phosphate pathway in senescent cells,17,1,0.058823529411764705
+WP5094,Orexin receptor pathway,17,1,0.058823529411764705
+WP5193,Cholesterol synthesis disorders,17,1,0.058823529411764705
+WP5277,Steroid hormone precursor biosynthesis,17,1,0.058823529411764705
+WP561,Heme biosynthesis,17,1,0.058823529411764705
+WP967,Heme biosynthesis,17,1,0.058823529411764705
+WP1785,Asparagine N-linked glycosylation,54,3,0.05555555555555555
+WP121,Colanic acid building blocks biosynthesis,18,1,0.05555555555555555
+WP1538,Flavonoid biosynthesis,18,1,0.05555555555555555
+WP253,Glycolysis,18,1,0.05555555555555555
+WP4344,Sphingolipid metabolism overview,18,1,0.05555555555555555
+WP4524,Alternative pathway of fetal androgen synthesis,18,1,0.05555555555555555
+WP5020,SARS-CoV-1 Infection,18,1,0.05555555555555555
+WP5064,7-oxo-C and 7-beta-HC pathways,18,1,0.05555555555555555
+WP4111,Phase II - Conjugation of compounds,145,8,0.05517241379310345
+WP5241,Mitochondrial beta-oxidation,114,6,0.05263157894736842
+WP3306,Aflatoxin activation and detoxification,19,1,0.05263157894736842
+WP4039,Fructose metabolism,19,1,0.05263157894736842
+WP4098,Ion channel transport,19,1,0.05263157894736842
+WP4725,Sphingolipid metabolism overview,19,1,0.05263157894736842
+WP2634,Brassinolide biosynthetic pathway,20,1,0.05
+WP2824,Detoxification of reactive oxygen species,20,1,0.05
+WP3363,Sialic acid metabolism,20,1,0.05
+WP1919,Signaling by VEGF,21,1,0.047619047619047616
+WP4101,Antimicrobial peptides,21,1,0.047619047619047616
+WP5037,Riboflavin and CoQ disorders,21,1,0.047619047619047616
+WP2788,Sphingolipid metabolism,44,2,0.045454545454545456
+WP3165,Neurotransmitter clearance in synaptic cleft,22,1,0.045454545454545456
+WP3871,Valproic acid pathway,22,1,0.045454545454545456
+WP1857,Metabolism of water-soluble vitamins and cofactors,68,3,0.04411764705882353
+WP1795,Cholesterol biosynthesis,46,2,0.043478260869565216
+WP4418,Class C/3 (metabotropic glutamate/pheromone receptors),46,2,0.043478260869565216
+WP4173,Sulfate assimilation and copper detoxification,23,1,0.043478260869565216
+WP1870,Neurotransmitter clearance,24,1,0.041666666666666664
+WP1946,Cori cycle,24,1,0.041666666666666664
+WP4792,Purine metabolism,24,1,0.041666666666666664
+WP4994,Tryptophan catabolism,24,1,0.041666666666666664
+WP1788,Bile acid and bile salt metabolism,75,3,0.04
+WP2289,Drug induction of bile acid pathway,25,1,0.04
+WP3253,Drug induction of bile acid pathway,25,1,0.04
+WP1878,Peroxisomal lipid metabolism,51,2,0.0392156862745098
+WP3791,Selenoamino acid metabolism,51,2,0.0392156862745098
+WP4519,"Cerebral organic acidurias, including diseases",26,1,0.038461538461538464
+WP1126,Tryptophan metabolism,27,1,0.037037037037037035
+WP3551,ROS and RNS production in phagocytes,27,1,0.037037037037037035
+WP4523,Classical pathway of steroidogenesis with glucocorticoid and mineralocorticoid metabolism,28,1,0.03571428571428571
+WP4993,Anti-inflammatory response favouring Leishmania parasite infection,28,1,0.03571428571428571
+WP4034,Mitochondrial fatty acid beta-oxidation,58,2,0.034482758620689655
+WP3562,Glyoxylate metabolism and glycine degradation,29,1,0.034482758620689655
+WP4085,Phase I - Functionalization of compounds,177,6,0.03389830508474576
+WP2436,Dopamine metabolism,31,1,0.03225806451612903
+WP3155,Dopamine metabolism,31,1,0.03225806451612903
+WP4686,"Leucine, isoleucine and valine metabolism",63,2,0.031746031746031744
+WP2650,Arachidonic acid metabolism,64,2,0.03125
+WP143,Fatty acid beta-oxidation,32,1,0.03125
+WP2749,Metabolism of steroid hormones,33,1,0.030303030303030304
+WP5324,Octadecanoid formation from linoleic acid,35,1,0.02857142857142857
+WP2743,Glycosaminoglycan metabolism,36,1,0.027777777777777776
+WP5329,Cholesterol biosynthesis pathway in hepatocytes,36,1,0.027777777777777776
+WP4949,16p11.2 proximal deletion syndrome,37,1,0.02702702702702703
+WP1852,Metabolism of porphyrins,39,1,0.02564102564102564
+WP5176,Disorders of bile acid synthesis and biliary transport,39,1,0.02564102564102564
+WP4718,Cholesterol metabolism with Bloch and Kandutsch-Russell pathways,42,1,0.023809523809523808
+WP4545,Oxysterols derived from cholesterol,48,1,0.020833333333333332
+WP3248,Tryptophan metabolism,51,1,0.0196078431372549
+WP4439,Biosynthesis of DHA-derived SPMs,51,1,0.0196078431372549
+WP4900,Purinergic signaling,52,1,0.019230769230769232
+WP465,Tryptophan metabolism,57,1,0.017543859649122806
+WP4346,Cholesterol metabolism with Bloch and Kandutsch-Russell pathways,61,1,0.01639344262295082
+WP4597,Glucosinolate biosynthesis from methionine,61,1,0.01639344262295082
+WP4690,Sphingolipid metabolism (integrated pathway),67,1,0.014925373134328358
+WP4726,Sphingolipid metabolism: integrated pathway,67,1,0.014925373134328358
+WP79,Tryptophan metabolism,71,1,0.014084507042253521
+WP1000,Arachidonate epoxygenase / epoxide hydrolase,9,0,0.0
+WP1001,Peptide GPCRs,2,0,0.0
+WP1007,Osteoclast signaling,3,0,0.0
+WP1010,Wnt signaling pathway and pluripotency,1,0,0.0
+WP1015,Ketone bodies synthesis and degradation,5,0,0.0
+WP102,Heme biosynthesis,15,0,0.0
+WP1023,mRNA Processing,1,0,0.0
+WP1028,Pentose phosphate pathway,10,0,0.0
+WP1033,ACE inhibitor pathway,10,0,0.0
+WP1034,Acetylcholine synthesis,10,0,0.0
+WP1042,Nucleotide GPCRs,2,0,0.0
+WP1049,G protein signaling pathways,3,0,0.0
+WP1053,Estrogen metabolism,14,0,0.0
+WP1056,Complement and coagulation cascades,1,0,0.0
+WP1062,Actin cytoskeleton regulation,3,0,0.0
+WP1065,Endochondral ossification,2,0,0.0
+WP1067,Toll-like receptor signaling pathway,1,0,0.0
+WP1068,Nuclear receptors,2,0,0.0
+WP1072,"GPCRs, class A rhodopsin-like",9,0,0.0
+WP1073,Glycogen metabolism,6,0,0.0
+WP1076,Monoamine GPCRs,8,0,0.0
+WP1077,Oxidation by cytochrome P450,8,0,0.0
+WP1079,Proteasome degradation,1,0,0.0
+WP108,Selenium metabolism / selenoproteins,2,0,0.0
+WP1080,Irinotecan pathway,3,0,0.0
+WP1086,Heme biosynthesis,7,0,0.0
+WP1090,Eicosanoid synthesis,13,0,0.0
+WP1114,MAPK signaling pathway,4,0,0.0
+WP1134,Ketone bodies synthesis and degradation,5,0,0.0
+WP1142,mRNA Processing,1,0,0.0
+WP1151,ACE inhibitor pathway,4,0,0.0
+WP1157,Statin pathway,1,0,0.0
+WP1165,G protein signaling pathways,3,0,0.0
+WP1170,Polyol pathway,8,0,0.0
+WP1189,Glycogen metabolism,3,0,0.0
+WP1193,Monoamine GPCRs,4,0,0.0
+WP12,Osteoclast signaling,3,0,0.0
+WP1211,Arylamine metabolism,3,0,0.0
+WP1217,Aflatoxin B1 metabolism,6,0,0.0
+WP1218,Polyol pathway,8,0,0.0
+WP1221,Heme biosynthesis,7,0,0.0
+WP1231,Pentose phosphate pathway,9,0,0.0
+WP1236,Polyol pathway,8,0,0.0
+WP124,Irinotecan pathway,4,0,0.0
+WP1244,Estrogen signaling,2,0,0.0
+WP1245,Transcriptional activation by Nfe2l2 in response to phytochemicals,2,0,0.0
+WP1248,Oxidative phosphorylation,5,0,0.0
+WP1250,Arachidonate epoxygenase / epoxide hydrolase,9,0,0.0
+WP1259,Retinol metabolism,9,0,0.0
+WP1262,Aflatoxin B1 metabolism,5,0,0.0
+WP1263,Mitochondrial gene expression,2,0,0.0
+WP1264,Estrogen metabolism,15,0,0.0
+WP1265,Polyol pathway,8,0,0.0
+WP1266,SIDS susceptibility pathways,4,0,0.0
+WP1269,Fatty acid beta-oxidation,8,0,0.0
+WP1270,Endochondral ossification,2,0,0.0
+WP1274,Oxidation by cytochrome P450,8,0,0.0
+WP1279,Estrogen signaling,2,0,0.0
+WP1280,Transcriptional activation by Nfe2l2 in response to phytochemicals,2,0,0.0
+WP1283,Oxidative phosphorylation,5,0,0.0
+WP1293,Selenium metabolism selenoproteins,3,0,0.0
+WP1297,Retinol metabolism,10,0,0.0
+WP13,DNA replication,3,0,0.0
+WP1300,Aflatoxin B1 metabolism,5,0,0.0
+WP1301,Mitochondrial gene expression,2,0,0.0
+WP1302,Estrogen metabolism,14,0,0.0
+WP1303,Polyol pathway,8,0,0.0
+WP1309,Toll-like receptor signaling pathway,1,0,0.0
+WP1318,Eicosanoid synthesis,13,0,0.0
+WP1330,Estrogen signaling,2,0,0.0
+WP1335,Oxidative phosphorylation,5,0,0.0
+WP1337,MAPK signaling pathway,4,0,0.0
+WP134,Pentose phosphate metabolism,10,0,0.0
+WP1358,Selenium metabolism selenoproteins,3,0,0.0
+WP1375,Polyol pathway,8,0,0.0
+WP1388,Glycogen metabolism,5,0,0.0
+WP1389,Monoamine GPCRs,4,0,0.0
+WP140,Myometrial relaxation and contraction pathways,3,0,0.0
+WP1403,AMP-activated protein kinase signaling,8,0,0.0
+WP142,mRNA processing,1,0,0.0
+WP1423,Ganglio sphingolipid metabolism,19,0,0.0
+WP1438,Influenza A virus infection,2,0,0.0
+WP1455,Serotonin transporter activity,3,0,0.0
+WP146,Nucleotide metabolism,2,0,0.0
+WP1471,Target of rapamycin signaling,1,0,0.0
+WP148,Fatty acid beta-oxidation 2,11,0,0.0
+WP1498,Dopaminergic neurogenesis,1,0,0.0
+WP152,FGF signaling pathway,1,0,0.0
+WP1528,Physiological and pathological hypertrophy of the heart,2,0,0.0
+WP1530,miRNA regulation of DNA damage response,3,0,0.0
+WP1544,MicroRNAs in cardiomyocyte hypertrophy,3,0,0.0
+WP1560,MicroRNAs in cardiomyocyte hypertrophy,3,0,0.0
+WP1567,Glycolysis and gluconeogenesis,20,0,0.0
+WP158,Proteasome degradation,1,0,0.0
+WP1581,Histidine metabolism,20,0,0.0
+WP1584,Type II diabetes mellitus,5,0,0.0
+WP1596,Iron homeostasis,1,0,0.0
+WP16,"Fatty acid elongation, unsaturated",1,0,0.0
+WP160,Glycogen metabolism,3,0,0.0
+WP1600,Nicotine metabolism in liver cells,11,0,0.0
+WP1601,Fluoropyrimidine activity,18,0,0.0
+WP1603,Nicotine effect on chromaffin cells,5,0,0.0
+WP1604,Codeine and morphine metabolism,7,0,0.0
+WP161,Small ligand GPCRs,1,0,0.0
+WP1622,Ascorbate and aldarate metabolism,7,0,0.0
+WP1631,Biotin metabolism,10,0,0.0
+WP1652,Fructose and mannose metabolism,9,0,0.0
+WP167,Eicosanoid synthesis,26,0,0.0
+WP170,Nuclear receptors,2,0,0.0
+WP175,Acetylcholine synthesis,10,0,0.0
+WP1772,Apoptosis modulation and signaling,1,0,0.0
+WP1775,Cell cycle checkpoints,3,0,0.0
+WP1781,Advanced glycosylation endproduct receptor signaling,2,0,0.0
+WP1784,Apoptotic execution phase,2,0,0.0
+WP1793,Cell junction organization,1,0,0.0
+WP1798,Complement cascade,4,0,0.0
+WP18,Heme biosynthesis,12,0,0.0
+WP1800,Presynaptic depolarization and calcium channel opening,2,0,0.0
+WP1802,Dissolution of Fibrin Clot,1,0,0.0
+WP1803,DNA Damage Bypass,8,0,0.0
+WP1809,Effects of PIP2 hydrolysis,10,0,0.0
+WP181,P-cymene degradation,7,0,0.0
+WP1818,Formation of Fibrin Clot and the Clotting Cascade,3,0,0.0
+WP1820,Gap junction trafficking and regulation,2,0,0.0
+WP1826,GPVI-mediated activation cascade,3,0,0.0
+WP1829,Immunoregulatory interactions between lymphoid and non-lymphoid cells,13,0,0.0
+WP183,Proteasome degradation,1,0,0.0
+WP1839,Interleukin-1 family signaling,4,0,0.0
+WP1840,"Interleukin-3, Interleukin-5 and GM-CSF signaling",2,0,0.0
+WP1842,Kinesins,2,0,0.0
+WP1862,mRNA Editing,2,0,0.0
+WP1865,Myogenesis,2,0,0.0
+WP1867,Nephrin family interactions,2,0,0.0
+WP1868,Netrin-1 signaling,5,0,0.0
+WP1883,Platelet adhesion to exposed collagen,1,0,0.0
+WP1884,Platelet Aggregation (Plug Formation),3,0,0.0
+WP1887,Post-translational modification: synthesis of GPI-anchored proteins,5,0,0.0
+WP189,"GPCRs, class A rhodopsin-like",5,0,0.0
+WP1895,Rap1 signaling,5,0,0.0
+WP1896,Regulation of apoptosis,1,0,0.0
+WP1904,DDX58/IFIH1-mediated induction of interferon-alpha/beta,5,0,0.0
+WP1908,Signal amplification,3,0,0.0
+WP1909,Signal regulatory protein family interactions,2,0,0.0
+WP192,DNA replication,7,0,0.0
+WP1926,Transport of glycerol from adipocytes to liver by aquaporins,1,0,0.0
+WP1929,Thrombin signaling through proteinase activated receptors (PARs),1,0,0.0
+WP1934,Transmission across Electrical Synapses,1,0,0.0
+WP1939,Unfolded Protein Response,2,0,0.0
+WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,11,0,0.0
+WP195,IL-1 signaling pathway,1,0,0.0
+WP1965,VEGF-receptor signal transduction,2,0,0.0
+WP1983,Splicing factor NOVA regulated synaptic proteins,1,0,0.0
+WP200,"Complement activation, classical pathway",1,0,0.0
+WP2007,Iron metabolism in placenta,2,0,0.0
+WP2018,RANKL/RANK signaling pathway,1,0,0.0
+WP2059,Alzheimer's disease and miRNA effects,10,0,0.0
+WP206,Fatty acid omega-oxidation,4,0,0.0
+WP207,Nucleotide GPCRs,2,0,0.0
+WP2075,Alzheimer's disease,7,0,0.0
+WP2079,Serotonin receptor 2 and STAT3 signaling,1,0,0.0
+WP2118,Arrhythmogenic right ventricular cardiomyopathy,3,0,0.0
+WP2132,Serotonin and anxiety,2,0,0.0
+WP214,Pyruvate dehydrogenase pathway,7,0,0.0
+WP2140,Serotonin and anxiety-related events,2,0,0.0
+WP2141,Serotonin and anxiety,4,0,0.0
+WP215,Non-canonical Wnt pathway,1,0,0.0
+WP2204,Lycopene biosynthesis,7,0,0.0
+WP2205,Carotenoid biosynthesis,12,0,0.0
+WP2209,Momilactone biosynthesis,3,0,0.0
+WP2210,Oryzalexin S biosynthesis,4,0,0.0
+WP2211,Geranylgeranyldiphosphate biosynthesis II (plastidic),5,0,0.0
+WP2212,Methylerythritol phosphate pathway,19,0,0.0
+WP2230,Chlorophyll b degradation,4,0,0.0
+WP2233,Immune responses in the epidermis,2,0,0.0
+WP2235,Sulfide oxidation pathway,9,0,0.0
+WP224,Aerobic glycerol catabolism,8,0,0.0
+WP2258,DON mycotoxin biosynthesis,11,0,0.0
+WP2261,Glioblastoma signaling pathways,1,0,0.0
+WP229,Irinotecan pathway,5,0,0.0
+WP2292,Chemokine signaling pathway,4,0,0.0
+WP231,TNF-alpha signaling pathway,1,0,0.0
+WP2316,PPAR signaling pathway,2,0,0.0
+WP2318,Fatty acid oxidation,9,0,0.0
+WP232,G protein signaling pathways,3,0,0.0
+WP2328,Allograft rejection,7,0,0.0
+WP2355,Corticotropin-releasing hormone signaling pathway,4,0,0.0
+WP2360,Folate biosynthesis,4,0,0.0
+WP2366,Butyrate-induced histone acetylation,2,0,0.0
+WP2376,"Nuclear factor, erythroid-derived 2, like 2 signaling pathway",2,0,0.0
+WP2380,Brain-derived neurotrophic factor (BDNF) signaling pathway,3,0,0.0
+WP24,Peptide GPCRs,2,0,0.0
+WP2406,Cardiac progenitor differentiation,1,0,0.0
+WP2431,Spinal cord injury,9,0,0.0
+WP2432,Spinal cord injury,7,0,0.0
+WP2433,Spinal cord injury,7,0,0.0
+WP2435,Quercetin and Nf-kB / AP-1 induced apoptosis,9,0,0.0
+WP247,Small ligand GPCRs,2,0,0.0
+WP2488,NAD salvage pathway III,7,0,0.0
+WP2491,Diclofenac metabolic pathway,6,0,0.0
+WP2507,Nanomaterial induced apoptosis,1,0,0.0
+WP2513,Nanoparticle triggered regulated necrosis,6,0,0.0
+WP2526,PDGF pathway,8,0,0.0
+WP2536,Colchicine metabolic pathway,3,0,0.0
+WP2541,Sulindac metabolic pathway,3,0,0.0
+WP2542,Sulindac metabolic pathway,3,0,0.0
+WP257,Starch and cellulose biosynthesis,14,0,0.0
+WP2572,Primary focal segmental glomerulosclerosis (FSGS),2,0,0.0
+WP2573,Primary focal segmental glomerulosclerosis (FSGS),2,0,0.0
+WP2583,T cell receptor and co-stimulatory signaling,4,0,0.0
+WP2586,Aryl hydrocarbon receptor pathway,1,0,0.0
+WP2587,Chicken limb development,1,0,0.0
+WP2596,Gastric acid production,6,0,0.0
+WP2597,Secretion of hydrochloric acid in parietal cells,9,0,0.0
+WP2626,ABA biosynthesis,5,0,0.0
+WP2628,Gibberellin A12 biosynthesis,9,0,0.0
+WP2631,Superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,14,0,0.0
+WP2633,Pto kinase mediated signaling pathway leading to the oxidative burst in tomato,6,0,0.0
+WP264,Acetylcholine synthesis,6,0,0.0
+WP2640,Aripiprazole metabolic pathway,2,0,0.0
+WP2645,Heroin metabolism,3,0,0.0
+WP2646,Lidocaine metabolism,8,0,0.0
+WP2656,TAK1 activates NF-kB by phosphorylation and activation of IKK complex,6,0,0.0
+WP2662,Vasopressin regulates renal water homeostasis via aquaporins,6,0,0.0
+WP2664,Gastrin-CREB signaling pathway via PKC and MAPK,2,0,0.0
+WP2665,Neurotoxicity of clostridium toxins,4,0,0.0
+WP2666,Elastic fibre formation,1,0,0.0
+WP2669,Potassium Channels,3,0,0.0
+WP2671,Defensins,1,0,0.0
+WP2673,Interleukin-7 signaling,2,0,0.0
+WP2675,Signaling by NODAL,2,0,0.0
+WP2677,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),2,0,0.0
+WP2678,Prolactin receptor signaling,3,0,0.0
+WP2681,Erythrocytes take up oxygen and release carbon dioxide,7,0,0.0
+WP2690,Cytosolic iron-sulfur cluster assembly,6,0,0.0
+WP2691,Peptide hormone biosynthesis,1,0,0.0
+WP2694,DAP12 interactions,2,0,0.0
+WP2697,Fertilization,5,0,0.0
+WP2698,Meiotic recombination,2,0,0.0
+WP270,Tryptophan metabolism,22,0,0.0
+WP2702,Mitochondrial iron-sulfur cluster biogenesis,6,0,0.0
+WP2703,Extracellular matrix organization,2,0,0.0
+WP2709,Trafficking and processing of endosomal TLR,3,0,0.0
+WP2710,Nonsense-Mediated Decay (NMD),2,0,0.0
+WP2713,Signaling by SCF-KIT,2,0,0.0
+WP2714,Signaling by Hippo,2,0,0.0
+WP2715,Metabolism of non-coding RNA,2,0,0.0
+WP2718,Signaling by NOTCH2,1,0,0.0
+WP272,Blood clotting cascade,2,0,0.0
+WP2720,Signaling by NOTCH1,3,0,0.0
+WP2721,Signaling by NOTCH4,3,0,0.0
+WP2722,Signaling by NOTCH3,3,0,0.0
+WP2731,Meiotic synapsis,2,0,0.0
+WP2732,Interleukin-2 family signaling,2,0,0.0
+WP2733,Regulation of mRNA stability by proteins that bind AU-rich elements,3,0,0.0
+WP2736,Insulin processing,3,0,0.0
+WP2744,Erythrocytes take up carbon dioxide and release oxygen,9,0,0.0
+WP2746,Signaling by the B Cell Receptor (BCR),10,0,0.0
+WP2752,MyD88-independent TLR4 cascade,3,0,0.0
+WP2754,Neurotransmitter receptors and postsynaptic signal transmission,5,0,0.0
+WP276,Monoamine GPCRs,7,0,0.0
+WP2760,Signaling by BMP,2,0,0.0
+WP2761,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,3,0,0.0
+WP2763,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",7,0,0.0
+WP2765,Mitotic Telophase/Cytokinesis,2,0,0.0
+WP2768,MyD88 dependent cascade initiated on endosome,3,0,0.0
+WP2770,Reversible hydration of carbon dioxide,5,0,0.0
+WP2773,Degradation of beta-catenin by the destruction complex,2,0,0.0
+WP2774,Degradation of the extracellular matrix,2,0,0.0
+WP2775,Toll-like Receptor Cascades,1,0,0.0
+WP2781,Signaling by ERBB4,3,0,0.0
+WP2786,Pre-NOTCH Expression and Processing,9,0,0.0
+WP2790,WNT ligand biogenesis and trafficking,3,0,0.0
+WP2791,Signaling by Activin,2,0,0.0
+WP2792,MAP kinase activation,4,0,0.0
+WP2794,Cytosolic sensors of pathogen-associated DNA,10,0,0.0
+WP2795,Cardiac hypertrophic response,4,0,0.0
+WP2798,Assembly of collagen fibrils and other multimeric structures,6,0,0.0
+WP2799,Regulation of IGF transport and uptake by IGF binding proteins,3,0,0.0
+WP2801,MyD88 cascade initiated on plasma membrane,2,0,0.0
+WP2806,Complement system,2,0,0.0
+WP2816,Felbamate metabolism,7,0,0.0
+WP2817,Mammary gland development pathway - Pregnancy and lactation (Stage 3 of 4),3,0,0.0
+WP282,Pentose phosphate pathway,9,0,0.0
+WP2826,Cocaine metabolism,14,0,0.0
+WP2841,Focal adhesion: PI3K-Akt-mTOR signaling pathway,2,0,0.0
+WP2851,Ethylene signaling pathway,3,0,0.0
+WP2855,Dopaminergic neurogenesis,1,0,0.0
+WP2860,Calvin cycle,14,0,0.0
+WP2861,Chloroplast electron transport chain,4,0,0.0
+WP2869,Nutrient control of ribosomal gene expression,3,0,0.0
+WP287,Upiquinone Q prenylation,2,0,0.0
+WP2872,White fat cell differentiation,1,0,0.0
+WP2881,Estrogen receptor pathway,1,0,0.0
+WP2886,Acetaminophen synthesis,7,0,0.0
+WP2889,Oxytocin signaling,3,0,0.0
+WP289,Myometrial relaxation and contraction pathways,3,0,0.0
+WP2901,Gonadotropin-releasing hormone (GnRH) signaling,4,0,0.0
+WP2908,Iron metabolism in placenta,2,0,0.0
+WP2912,Vascular smooth muscle contraction,13,0,0.0
+WP2915,Role of lipid metabolism,1,0,0.0
+WP2918,Isoprenoid precursor biosynthesis in Pf apicoplasts,13,0,0.0
+WP2940,Polar auxin transport,2,0,0.0
+WP2941,Polar auxin transport,2,0,0.0
+WP2945,Cytokinin-auxin interactions in plant development,1,0,0.0
+WP3,Transcriptional activation by NRF2 in response to phytochemicals,4,0,0.0
+WP3015,UDP-L-arabinose biosynthesis I from UDP-xylose,1,0,0.0
+WP302,Proteasome degradation,1,0,0.0
+WP303,Prostaglandin synthesis and regulation,5,0,0.0
+WP3115,Serotonin receptor 2 and STAT3 signaling,1,0,0.0
+WP3117,Type II diabetes mellitus,5,0,0.0
+WP3127,Cardiac progenitor differentiation,1,0,0.0
+WP3132,Regulation of toll-like receptor signaling pathway,1,0,0.0
+WP3134,Mitochondrial gene expression,2,0,0.0
+WP3138,Serotonin transporter activity,3,0,0.0
+WP3141,BDNF signaling pathway,2,0,0.0
+WP3146,Peroxisomal beta-oxidation of tetracosanoyl-CoA,11,0,0.0
+WP3148,Apoptosis modulation and signaling,1,0,0.0
+WP3150,Sulindac metabolic pathway,3,0,0.0
+WP3152,Diclofenac metabolic pathway,6,0,0.0
+WP3154,AMPK signaling,8,0,0.0
+WP3167,Quercetin and Nf-kB / AP-1 induced cell apoptosis,9,0,0.0
+WP317,Glycogen metabolism,7,0,0.0
+WP318,Eicosanoid synthesis,14,0,0.0
+WP3185,Nicotine metabolism,11,0,0.0
+WP3186,Spinal cord injury,9,0,0.0
+WP3187,Colchicine metabolic pathway,3,0,0.0
+WP3189,Felbamate metabolism,7,0,0.0
+WP3195,Arrhythmogenic right ventricular cardiomyopathy,3,0,0.0
+WP3196,Dopaminergic neurogenesis,1,0,0.0
+WP3200,PDGF pathway,8,0,0.0
+WP3204,Hydrochloric acid secretion in parietal cells,9,0,0.0
+WP3214,Influenza A virus infection,2,0,0.0
+WP3219,Ganglio sphingolipid metabolism,16,0,0.0
+WP3222,Oxytocin signaling,3,0,0.0
+WP3226,Aryl hydrocarbon receptor,1,0,0.0
+WP3233,Primary focal segmental glomerulosclerosis (FSGS),2,0,0.0
+WP3234,Sulfation biotransformation reaction,10,0,0.0
+WP3242,Serotonin receptor 2 and ELK-SRF / GATA4 signaling,4,0,0.0
+WP3247,Aflatoxin B1 metabolism,5,0,0.0
+WP3249,Butyrate-induced histone acetylation,2,0,0.0
+WP3250,Cardiac hypertrophic response,4,0,0.0
+WP3251,Blood clotting cascade,1,0,0.0
+WP3254,Lidocaine metabolism,8,0,0.0
+WP3255,Nicotine activity on chromaffin cells,5,0,0.0
+WP3256,Target of rapamycin (TOR) signaling,1,0,0.0
+WP3263,Benzo(a)pyrene metabolism,3,0,0.0
+WP3264,Tamoxifen metabolism,10,0,0.0
+WP3270,Codeine and morphine metabolism,7,0,0.0
+WP3271,IL-1 signaling pathway,1,0,0.0
+WP3272,Serotonin receptor 4/6/7 and NR3C signaling,2,0,0.0
+WP3275,Fluoropyrimidine activity,6,0,0.0
+WP3276,Myometrial relaxation and contraction pathways,3,0,0.0
+WP3278,Globo sphingolipid metabolism,5,0,0.0
+WP3281,Catalytic cycle of mammalian FMOs,7,0,0.0
+WP3282,T cell receptor and co-stimulatory signaling,4,0,0.0
+WP3286,Copper homeostasis,2,0,0.0
+WP3287,Overview of nanoparticle effects,1,0,0.0
+WP3298,Melatonin metabolism and effects,17,0,0.0
+WP3301,MFAP5-mediated ovarian cancer cell motility and invasiveness,4,0,0.0
+WP3303,RAC1/PAK1/p38/MMP2 pathway,1,0,0.0
+WP3305,NoRC negatively regulates rRNA expression,3,0,0.0
+WP3308,Oncogene Induced Senescence,2,0,0.0
+WP3312,PRC2 methylates histones and DNA,2,0,0.0
+WP3313,Hedgehog 'on' state,2,0,0.0
+WP3315,O-linked glycosylation,14,0,0.0
+WP3316,Hedgehog 'off' state,5,0,0.0
+WP3317,Caspase activation via dependence receptors in the absence of ligand,2,0,0.0
+WP332,"RuMP cycle, oxidative branch of the pentose phosphate pathway and formaldehyde assimilation",17,0,0.0
+WP3330,RHO GTPases activate IQGAPs,1,0,0.0
+WP3339,TCF dependent signaling in response to WNT,10,0,0.0
+WP3352,Toll-like receptor 3 (TLR3) cascade,2,0,0.0
+WP3358,Caspase activation via death receptors in the presence of ligand,1,0,0.0
+WP3359,DNA methylation,2,0,0.0
+WP336,Fatty acid biosynthesis,2,0,0.0
+WP3360,Uptake and function of diphtheria toxin,3,0,0.0
+WP3364,SIRT1 negatively regulates rRNA expression,5,0,0.0
+WP3374,Signaling by leptin,2,0,0.0
+WP3376,RHO GTPases activate CIT,2,0,0.0
+WP3377,Melanin biosynthesis,19,0,0.0
+WP3380,TNF signaling,3,0,0.0
+WP3388,RHO GTPases activate WASPs and WAVEs,2,0,0.0
+WP339,ESC pluripotency pathways,3,0,0.0
+WP3390,Uptake and function of anthrax toxins,6,0,0.0
+WP3391,Senescence-Associated Secretory Phenotype (SASP),4,0,0.0
+WP3396,RHO GTPases activate NADPH oxidases,10,0,0.0
+WP3414,Initiation of transcription and translation elongation at the HIV-1 LTR,2,0,0.0
+WP3436,"Synthesis, secretion, and deacylation of Ghrelin",4,0,0.0
+WP346,Protein modifications,4,0,0.0
+WP3486,Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate,5,0,0.0
+WP349,Synthesis and degradation of ketone bodies,5,0,0.0
+WP35,G protein signaling pathways,3,0,0.0
+WP351,Regulation of actin cytoskeleton,3,0,0.0
+WP3513,Regulation of beta-cell development,2,0,0.0
+WP3529,Zinc homeostasis,1,0,0.0
+WP353,"GPCRs, small ligand",1,0,0.0
+WP3545,NIK -> non-canonical NF-kB signaling,2,0,0.0
+WP3547,Amyloid fiber formation,6,0,0.0
+WP3548,Metabolism of amine-derived hormones,30,0,0.0
+WP3549,Mitophagy,2,0,0.0
+WP3550,Nonhomologous End-Joining,4,0,0.0
+WP3565,DNA Damage/Telomere Stress Induced Senescence,5,0,0.0
+WP3569,Fanconi Anemia Pathway,3,0,0.0
+WP3570,HDR through MMEJ (alt-NHEJ),4,0,0.0
+WP358,MAPK signaling pathway,4,0,0.0
+WP3585,Cytosine methylation,9,0,0.0
+WP3592,ApoE and miR-146 in inflammation and atherosclerosis,1,0,0.0
+WP36,De novo biosynthesis of pyrimidine deoxyribonucleotides,10,0,0.0
+WP360,Acetylcholine synthesis,8,0,0.0
+WP3620,Flavonoid pathway,105,0,0.0
+WP3626,Microglia pathogen phagocytosis pathway,2,0,0.0
+WP3627,Gut-liver indole metabolism,5,0,0.0
+WP3628,Intracellular auxin transport,1,0,0.0
+WP3630,"NAD metabolism, sirtuins and aging",4,0,0.0
+WP3633,Caffeine and theobromine metabolism,11,0,0.0
+WP3634,Insulin signaling in adipocytes (normal condition),2,0,0.0
+WP3636,Turbo design of glycolysis,6,0,0.0
+WP3640,Imatinib and chronic myeloid leukemia,1,0,0.0
+WP3645,NAD+ biosynthetic pathways,15,0,0.0
+WP3648,Crystal toxin triggered necrosis pathway,3,0,0.0
+WP3649,Wnt myofibroblastic activation of hepatic stellate cells,2,0,0.0
+WP3650,Acetate mediated promotion of metabolic syndrome,1,0,0.0
+WP3656,Interleukin-1 induced activation of NF-kB,2,0,0.0
+WP3661,Genetic interactions between sugar and hormone signaling,6,0,0.0
+WP3664,Regulation of Wnt / B-catenin signaling by small molecule compounds,9,0,0.0
+WP3666,Metabolism of dichloroethylene by CYP450,10,0,0.0
+WP3676,BDNF-TrkB signaling,3,0,0.0
+WP368,Mitochondrial long chain fatty acid beta-oxidation,2,0,0.0
+WP3684,tRNA modification in the mitochondrion,4,0,0.0
+WP3685,Vitamin D (calciferol) metabolism,10,0,0.0
+WP369,Pentose phosphate pathway,14,0,0.0
+WP374,Prostaglandin synthesis and regulation,9,0,0.0
+WP376,Renin-angiotensin system,11,0,0.0
+WP379,"Pentose pathway, non-oxidative branch",14,0,0.0
+WP3793,Lysosomal oligosaccharide catabolism,8,0,0.0
+WP3798,Regulation of TP53 activity through association with cofactors,2,0,0.0
+WP380,"Fatty acid elongation, saturated",2,0,0.0
+WP3801,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,2,0,0.0
+WP3802,TP53 Regulates Transcription of Cell Death Genes,8,0,0.0
+WP3803,Threonine catabolism,12,0,0.0
+WP3804,TP53 regulates transcription of cell cycle genes,2,0,0.0
+WP3808,TP53 Regulates Transcription of DNA Repair Genes,2,0,0.0
+WP3809,tRNA processing in the mitochondrion,3,0,0.0
+WP3813,Activation of anterior HOX genes in hindbrain development during early embryogenesis,1,0,0.0
+WP3814,Metallothioneins bind metals,5,0,0.0
+WP3817,Interleukin-20 family signaling,2,0,0.0
+WP3818,Signaling by MST1,3,0,0.0
+WP3819,B-WICH complex positively regulates rRNA expression,2,0,0.0
+WP382,MAPK signaling pathway,4,0,0.0
+WP3822,Metabolism of vitamin K,6,0,0.0
+WP3823,Regulation of TP53 Activity through Methylation,4,0,0.0
+WP3827,RNA polymerase II transcribes snRNA genes,4,0,0.0
+WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities in prostate cancer,1,0,0.0
+WP385,Myometrial relaxation and contraction pathways,3,0,0.0
+WP3857,Wnt signaling in kidney disease,1,0,0.0
+WP386,Triacylglyceride synthesis,1,0,0.0
+WP3863,T-cell antigen receptor (TCR) pathway during Staphylococcus aureus infection,2,0,0.0
+WP3876,BMP2-WNT4-FOXO1 pathway in primary endometrial stromal cell differentiation,1,0,0.0
+WP3877,MYD88 distinct input-output pathway,1,0,0.0
+WP3878,ATM signaling in development and disease,1,0,0.0
+WP3879,"4-hydroxytamoxifen, dexamethasone, and retinoic acids regulation of p27 expression",10,0,0.0
+WP3882,Thick ascending limb transporters,9,0,0.0
+WP3887,Angiotensin II signaling (acute) in thick ascending limbs,9,0,0.0
+WP3890,Nanomaterial-induced inflammasome activation,1,0,0.0
+WP3891,Benzene metabolism,10,0,0.0
+WP3894,Fructose metabolism in proximal tubules,11,0,0.0
+WP391,Mitochondrial gene expression,2,0,0.0
+WP3915,Angiopoietin-like protein 8 regulatory pathway,7,0,0.0
+WP3926,ApoE and miR-146 in inflammation and atherosclerosis,1,0,0.0
+WP3929,Chemokine signaling pathway,4,0,0.0
+WP3931,Embryonic stem cell pluripotency pathways,3,0,0.0
+WP3932,Focal adhesion: PI3K-Akt-mTOR-signaling pathway,2,0,0.0
+WP3934,Leptin and adiponectin,2,0,0.0
+WP3937,Microglia pathogen phagocytosis pathway,2,0,0.0
+WP3942,PPAR signaling pathway,2,0,0.0
+WP3944,Serotonin and anxiety-related events,2,0,0.0
+WP3947,Serotonin and anxiety,4,0,0.0
+WP3958,GPR40 pathway,2,0,0.0
+WP396,ACE inhibitor pathway,4,0,0.0
+WP3971,OSX and miRNAs in tooth development,1,0,0.0
+WP3980,Protein alkylation leading to liver fibrosis,5,0,0.0
+WP3982,miRNA regulation of p53 pathway in prostate cancer,1,0,0.0
+WP399,Wnt signaling pathway and pluripotency,1,0,0.0
+WP3995,Prion disease pathway,2,0,0.0
+WP3998,Prader-Willi and Angelman syndrome,2,0,0.0
+WP401,Mitochondrial long chain fatty acid beta-oxidation,2,0,0.0
+WP4020,PPAR signaling pathway,2,0,0.0
+WP4030,SCFA and skeletal muscle substrate metabolism,3,0,0.0
+WP4036,MTF1 activates gene expression,1,0,0.0
+WP4043,Cellular hexose transport,4,0,0.0
+WP4047,PTEN Regulation,9,0,0.0
+WP4052,Interleukin-12 family signaling,2,0,0.0
+WP4063,Interleukin-10 signaling,2,0,0.0
+WP4064,Intracellular oxygen transport,1,0,0.0
+WP4066,Interleukin-4 and Interleukin-13 signaling,2,0,0.0
+WP4068,Formation of xylulose-5-phosphate,15,0,0.0
+WP4070,RAB GEFs exchange GTP for GDP on RABs,2,0,0.0
+WP4071,RAB geranylgeranylation,2,0,0.0
+WP4073,Protein methylation,2,0,0.0
+WP4074,RNA Polymerase I Transcription,6,0,0.0
+WP4083,Reelin signaling pathway,2,0,0.0
+WP4086,Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,1,0,0.0
+WP4088,Mitochondrial calcium ion transport,3,0,0.0
+WP4095,RET signaling,2,0,0.0
+WP4099,rRNA modification in the mitochondrion,2,0,0.0
+WP4102,Deubiquitination,6,0,0.0
+WP4105,Transcriptional regulation by RUNX1,4,0,0.0
+WP4107,Transcriptional regulation by RUNX3,6,0,0.0
+WP4108,Aryl hydrocarbon receptor signaling,1,0,0.0
+WP4109,Regulation of mitotic cell cycle,4,0,0.0
+WP411,mRNA processing,1,0,0.0
+WP4110,Post-translational protein phosphorylation,2,0,0.0
+WP4112,Vitamin E,1,0,0.0
+WP4115,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,4,0,0.0
+WP4116,Lactose synthesis,5,0,0.0
+WP4119,Listeria monocytogenes entry into host cells,4,0,0.0
+WP4122,Interleukin-6 family signaling,2,0,0.0
+WP4126,Galactose catabolism,8,0,0.0
+WP4132,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,2,0,0.0
+WP4134,Processing of SMDT1,1,0,0.0
+WP4135,RNA Polymerase III Transcription,3,0,0.0
+WP4136,Fibrin complement receptor 3 signaling pathway,2,0,0.0
+WP4148,Splicing factor NOVA regulated synaptic proteins,1,0,0.0
+WP4149,White fat cell differentiation,1,0,0.0
+WP4150,Wnt signaling in kidney disease,1,0,0.0
+WP4153,"Degradation pathway of sphingolipids, including diseases",3,0,0.0
+WP4155,Endometrial cancer,3,0,0.0
+WP4174,Metabolism of tetrahydrocannabinol (THC),6,0,0.0
+WP418,Beta-oxidation of unsaturated fatty acids,8,0,0.0
+WP4183,Distal convoluted tubule 1 (DCT1) cell,3,0,0.0
+WP4189,Mevalonate arm of cholesterol biosynthesis pathway with inhibitors,49,0,0.0
+WP4190,Mevalonate arm of cholesterol biosynthesis pathway,20,0,0.0
+WP4198,Biosynthesis of the three types of mycolic acids,5,0,0.0
+WP4205,MET in type 1 papillary renal cell carcinoma,3,0,0.0
+WP4210,Tryptophan catabolism leading to NAD+ production,19,0,0.0
+WP4216,Chromosomal and microsatellite instability in colorectal cancer,3,0,0.0
+WP4220,Neurotransmitter disorders,20,0,0.0
+WP4223,Ras signaling,3,0,0.0
+WP4238,Flavan-3-ol metabolic pathway,66,0,0.0
+WP4239,Epithelial to mesenchymal transition in colorectal cancer,1,0,0.0
+WP4255,Non-small cell lung cancer,9,0,0.0
+WP4262,Breast cancer pathway,3,0,0.0
+WP4265,Ethanol metabolism resulting in production of ROS by CYP2E1,17,0,0.0
+WP4268,Ethanol metabolism resulting in production of ROS by CYP2E1,17,0,0.0
+WP4269,Ethanol metabolism production of ROS by CYP2E1,17,0,0.0
+WP427,Ketone bodies synthesis and degradation,5,0,0.0
+WP428,Wnt signaling,1,0,0.0
+WP4299,Lamin A-processing pathway,1,0,0.0
+WP43,Oxidation by cytochrome P450,8,0,0.0
+WP4317,Mitochondrial fatty acid synthesis pathway,8,0,0.0
+WP4321,Thermogenesis,17,0,0.0
+WP4329,miRNA role in immune response in sepsis,1,0,0.0
+WP4335,Eicosanoid lipid synthesis map,11,0,0.0
+WP4341,"Non-genomic actions of 1,25 dihydroxyvitamin D3",4,0,0.0
+WP4342,Vitamins A and D - action mechanisms,9,0,0.0
+WP4347,Eicosanoid metabolism via cyclooxygenases (COX),36,0,0.0
+WP4348,Eicosanoid metabolism via lipoxygenases (LOX),35,0,0.0
+WP4349,Eicosanoid metabolism via cytochrome P450 monooxygenases,13,0,0.0
+WP436,Glycogen metabolism,5,0,0.0
+WP4396,Nonalcoholic fatty liver disease,2,0,0.0
+WP4398,PDGFR-alpha and STMN1 cooperate to exacerbate cytotoxic effects of vinblastine,1,0,0.0
+WP4404,Interleukin-15 signaling,2,0,0.0
+WP4409,Interleukin-9 signaling,2,0,0.0
+WP4413,Transcriptional regulation by E2F6,2,0,0.0
+WP4414,Regulation of RUNX2 expression and activity,6,0,0.0
+WP4415,Transcriptional regulation by RUNX2,8,0,0.0
+WP4421,Signaling by Retinoic Acid,23,0,0.0
+WP4426,G alpha (12/13) signaling events,3,0,0.0
+WP4428,G-protein beta:gamma signaling,3,0,0.0
+WP4429,NGF processing,1,0,0.0
+WP4433,TYSND1 cleaves peroxisomal proteins,1,0,0.0
+WP4434,Synthesis of Lipoxins (LX),17,0,0.0
+WP4436,Signaling by NTRK2 (TRKB),2,0,0.0
+WP4438,Biosynthesis of DPA-derived SPMs,30,0,0.0
+WP4440,Biosynthesis of EPA-derived SPMs,20,0,0.0
+WP4442,Peroxisomal protein import,3,0,0.0
+WP4443,p75 NTR receptor-mediated signaling,9,0,0.0
+WP4444,Biosynthesis of electrophilic omega-3 PUFA oxo-derivatives,27,0,0.0
+WP4447,SUMOylation of intracellular receptors,8,0,0.0
+WP4453,Transcriptional regulation by MECP2,3,0,0.0
+WP4454,Acetylcholine binding and downstream events,3,0,0.0
+WP4458,Signaling by Erythropoietin,4,0,0.0
+WP4462,Platelet-mediated interactions with vascular and circulating cells,1,0,0.0
+WP448,Mitochondrial long chain fatty acid beta-oxidation,1,0,0.0
+WP4482,Vitamin D in inflammatory diseases,1,0,0.0
+WP4483,"Relationship between inflammation, COX-2 and EGFR",2,0,0.0
+WP4485,Modified nucleosides derived from tRNA as urinary cancer markers,14,0,0.0
+WP4487,Ophthalmate biosynthesis in hepatocytes,6,0,0.0
+WP4495,IL-10 anti-inflammatory signaling pathway,3,0,0.0
+WP4501,Vanillin and isovanillin metabolism,12,0,0.0
+WP4507,Molybdenum cofactor (Moco) biosynthesis,4,0,0.0
+WP452,Tryptophan degradation via kynurenine,16,0,0.0
+WP4521,Glycosylation and related congenital defects,9,0,0.0
+WP4539,Synaptic signaling pathways associated with autism spectrum disorder,2,0,0.0
+WP454,Osteoclast signaling,3,0,0.0
+WP455,"GPCRs, class A rhodopsin-like",9,0,0.0
+WP4560,MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement,1,0,0.0
+WP4566,Translation inhibitors in chronically activated PDGFRA cells,2,0,0.0
+WP4577,Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway,17,0,0.0
+WP4580,Blood clotting and drug effects,6,0,0.0
+WP462,Pantothenate and coenzyme A biosynthesis,9,0,0.0
+WP4627,Lipids measured in liver metastasis from breast cancer,17,0,0.0
+WP4630,Measles virus infection,1,0,0.0
+WP4656,Joubert syndrome,3,0,0.0
+WP4658,Small cell lung cancer,5,0,0.0
+WP466,DNA replication,6,0,0.0
+WP4666,Hepatitis B infection,1,0,0.0
+WP4673,Male infertility,3,0,0.0
+WP4674,Head and neck squamous cell carcinoma,2,0,0.0
+WP468,ACE inhibitor pathway,4,0,0.0
+WP4685,Melanoma,6,0,0.0
+WP4707,Aspirin and miRNAs,1,0,0.0
+WP471,Beta-oxidation of unsaturated fatty acids,7,0,0.0
+WP4719,Eicosanoid metabolism via cyclooxygenases (COX),36,0,0.0
+WP4720,Eicosanoid metabolism via cytochrome P450 monooxygenases pathway,13,0,0.0
+WP4721,Eicosanoid metabolism via lipooxygenases (LOX),32,0,0.0
+WP473,"GPCRs, class A rhodopsin-like",5,0,0.0
+WP474,Endochondral ossification,2,0,0.0
+WP4742,Ketogenesis and ketolysis,9,0,0.0
+WP4746,Thyroid hormones production and peripheral downstream signaling effects,15,0,0.0
+WP476,Acetylcholine synthesis,6,0,0.0
+WP4760,PKC-gamma calcium signaling pathway in ataxia,4,0,0.0
+WP4763,Regulation of Pgc1a expression by a Gsk3b-Tfeb signaling axis in skeletal muscle,1,0,0.0
+WP4767,FGFR3 signaling in chondrocyte proliferation and terminal differentiation,1,0,0.0
+WP4786,Type I collagen synthesis in the context of osteogenesis imperfecta,2,0,0.0
+WP4788,Autosomal recessive osteopetrosis pathways,2,0,0.0
+WP4790,FGF23 signaling in hypophosphatemic rickets and related disorders,4,0,0.0
+WP4799,Downregulation of ACE2 by SARS-CoV-2 spike protein,1,0,0.0
+WP4806,EGFR tyrosine kinase inhibitor resistance,2,0,0.0
+WP4808,Endochondral ossification with skeletal dysplasias,2,0,0.0
+WP4815,Glycosaminoglycan degradation,1,0,0.0
+WP4818,Conversion of angiotensinogen to angiotensin II,2,0,0.0
+WP4835,Peroxiredoxin 2 induced ovarian failure,2,0,0.0
+WP4842,Mammalian disorder of sexual development,3,0,0.0
+WP4844,Influence of laminopathies on Wnt signaling,1,0,0.0
+WP4860,Hijack of ubiquitination by SARS-CoV-2,1,0,0.0
+WP4868,Type I interferon induction and signaling during SARS-CoV-2 infection,2,0,0.0
+WP4871,Kisspeptin/kisspeptin receptor system in the ovary,4,0,0.0
+WP4873,Peroxiredoxin 2 induced ovarian failure,2,0,0.0
+WP4874,CAMKK2 pathway,10,0,0.0
+WP4875,Disruption of postsynaptic signaling by CNV,1,0,0.0
+WP4876,Activation of NLRP3 inflammasome by SARS-CoV-2,1,0,0.0
+WP4879,Overlap between signal transduction pathways contributing to LMNA laminopathies,1,0,0.0
+WP4883,SARS-CoV-2 and ACE2 receptor: molecular mechanisms,4,0,0.0
+WP489,Osteoclast,3,0,0.0
+WP4906,3q29 copy number variation syndrome,12,0,0.0
+WP4920,Mitochondrial complex II assembly,1,0,0.0
+WP4922,Mitochondrial complex IV assembly,4,0,0.0
+WP4927,"COVID-19, thrombosis and anticoagulation",5,0,0.0
+WP493,Mapk signaling pathway,1,0,0.0
+WP4940,15q11.2 copy number variation syndrome,1,0,0.0
+WP4944,Mitochondrial complex I inhibition leading to chemical-induced Fanconi syndrome,1,0,0.0
+WP4950,16p11.2 distal deletion syndrome,3,0,0.0
+WP4961,STING pathway in Kawasaki-like disease and COVID-19,3,0,0.0
+WP4962,Airway smooth muscle cell contraction,3,0,0.0
+WP4965,Deregulation of renin-angiotensin system by SARS-CoV infection,4,0,0.0
+WP4974,Alpha-protein kinase 1 signaling pathway,3,0,0.0
+WP4975,Response of EIF2AK4 (GCN2) to amino acid deficiency,2,0,0.0
+WP4978,Response of EIF2AK1 (HRI) to heme deficiency,2,0,0.0
+WP4982,NGF-stimulated transcription,2,0,0.0
+WP4983,STAT5 Activation,2,0,0.0
+WP499,Fatty acid beta-oxidation 3,6,0,0.0
+WP4990,Metabolism of cofactors,38,0,0.0
+WP4991,Events associated with phagocytolytic activity of PMN cells,12,0,0.0
+WP4997,Blood group systems biosynthesis,6,0,0.0
+WP4999,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",4,0,0.0
+WP500,Glycogen synthesis and degradation,7,0,0.0
+WP5001,Transcriptional regulation of granulopoiesis,1,0,0.0
+WP5003,Latent infection - Other responses of Mycobacterium tuberculosis to phagocytosis,29,0,0.0
+WP5005,WNT5:FZD7-mediated leishmania damping,7,0,0.0
+WP5006,Pexophagy,1,0,0.0
+WP5008,FOXO-mediated transcription,7,0,0.0
+WP5012,NR1H2 and NR1H3-mediated signaling,4,0,0.0
+WP5014,Human cytomegalovirus infection,3,0,0.0
+WP502,Nucleotide GPCRs,2,0,0.0
+WP5022,RIPK1-mediated regulated necrosis,7,0,0.0
+WP5030,Ethylmalonic encephalopathy,11,0,0.0
+WP5031,"Biotin metabolism, including IMDs",13,0,0.0
+WP5036,Angiotensin II receptor type 1 pathway,1,0,0.0
+WP5038,Mitochondrial immune response to SARS-CoV-2,4,0,0.0
+WP5044,Kynurenine pathway and links to cell senescence,26,0,0.0
+WP5048,Transcriptional regulation of testis differentiation,1,0,0.0
+WP5053,Development of ureteric collection system,1,0,0.0
+WP5055,Burn wound healing,3,0,0.0
+WP5061,Fatty acid transporters,1,0,0.0
+WP5074,Kallmann syndrome,7,0,0.0
+WP5076,Soluble ACE2-mediated cell entry of SARS-CoV-2,1,0,0.0
+WP5085,Vasopressin-regulated water reabsorption,2,0,0.0
+WP5088,Prostaglandin signaling,4,0,0.0
+WP5089,Kinin-Kallikrein pathway,1,0,0.0
+WP5090,Complement system in neuronal development and plasticity,7,0,0.0
+WP5093,Opioid receptor pathways,1,0,0.0
+WP5095,Overview of proinflammatory and profibrotic mediators,2,0,0.0
+WP5097,CCL18 signaling pathway,1,0,0.0
+WP51,Regulation of actin cytoskeleton,3,0,0.0
+WP5102,Familial partial lipodystrophy,1,0,0.0
+WP5103,Progeria-associated lipodystrophy,1,0,0.0
+WP5104,Acquired partial lipodystrophy / Barraquer-Simons syndrome,1,0,0.0
+WP5113,Antiviral and anti-inflammatory effects of Nrf2 on SARS-CoV-2 pathway,3,0,0.0
+WP5122,Prostaglandin and leukotriene metabolism in senescence,20,0,0.0
+WP5123,Mitochondrial fatty acid oxidation disorders,4,0,0.0
+WP5124,Alzheimer's disease,10,0,0.0
+WP5128,Fibrin complement receptor 3 signaling pathway,2,0,0.0
+WP5133,Non-classical role of vitamin D,7,0,0.0
+WP5143,GDNF signaling,7,0,0.0
+WP5144,NRP1-triggered signaling pathways in pancreatic cancer,1,0,0.0
+WP5145,COVID-19 structural coverage map,1,0,0.0
+WP5151,Sialylation,6,0,0.0
+WP5152,Iron-sulfur cluster biogenesis,2,0,0.0
+WP5153,N-glycan biosynthesis,7,0,0.0
+WP5154,Docosahexaenoic acid oxylipin metabolism,35,0,0.0
+WP5155,"Arachidonic acid (AA, ARA) oxylipin metabolism",79,0,0.0
+WP5171,Leukotriene metabolic pathway,20,0,0.0
+WP5172,Iron metabolism disorders,4,0,0.0
+WP5173,Disorders of galactose metabolism,6,0,0.0
+WP5174,Ulcerative colitis signaling,1,0,0.0
+WP5175,Disorders in ketone body synthesis,12,0,0.0
+WP5179,Biosynthesis and turnover of 1-deoxy-sphingoid bases,14,0,0.0
+WP5180,DYRK1A involvement regarding cell proliferation in brain development,1,0,0.0
+WP5182,Pro-survival signaling of neuroprotectin D1,1,0,0.0
+WP5183,SARS-CoV-2 mitochondrial chronic oxidative stress and endothelial dysfunction,5,0,0.0
+WP5188,Retinol metabolism,9,0,0.0
+WP5189,Copper metabolism,2,0,0.0
+WP519,Proteasome degradation,1,0,0.0
+WP5191,Resolvin E1 and resolvin D1 signaling pathways promoting inflammation resolution,6,0,0.0
+WP5199,"PtdIns(4,5)P2 in cytokinesis pathway",1,0,0.0
+WP5201,Phospholipid biosynthesis,9,0,0.0
+WP5205,Clock-controlled autophagy in bone metabolism,1,0,0.0
+WP5218,Extrafollicular and follicular B cell activation by SARS-CoV-2,1,0,0.0
+WP5219,Diet-dependent trimethylamine/trimethylamine N-oxide metabolism,13,0,0.0
+WP523,Regulation of actin cytoskeleton,3,0,0.0
+WP5231,Hippocampal synaptogenesis and neurogenesis,7,0,0.0
+WP5233,Arsenic metabolism and reactive oxygen species generation,14,0,0.0
+WP5235,Estradiol regulation in porto-sinusoidal vascular disease,4,0,0.0
+WP525,Mitochondrial unfolded-protein response,2,0,0.0
+WP5258,Role of ROS in COVID-19 endothelial dysfunction,1,0,0.0
+WP5260,Physiopathology of endothelial dysfunction in COVID-19,1,0,0.0
+WP5269,Genetic causes of porto-sinusoidal vascular disease,8,0,0.0
+WP5273,Effect of intestinal microbiome on anticoagulant response of vitamin K antagonists,14,0,0.0
+WP5275,Ether lipid biosynthesis,2,0,0.0
+WP5276,Estrogen metabolism,23,0,0.0
+WP5279,Mineralocorticoid biosynthesis,17,0,0.0
+WP528,Acetylcholine synthesis,10,0,0.0
+WP5280,Glucocorticoid biosynthesis,25,0,0.0
+WP5283,Chronic hyperglycemia impairment of neuron function,11,0,0.0
+WP5285,Immune infiltration in pancreatic cancer,2,0,0.0
+WP529,mRNA processing,1,0,0.0
+WP5300,TROP2 regulatory signaling,1,0,0.0
+WP531,DNA mismatch repair,1,0,0.0
+WP5318,Female steroid hormones in cardiomyocyte energy metabolism,2,0,0.0
+WP5321,Prostaglandin and leukotriene metabolism in senescence,20,0,0.0
+WP5342,Pathophysiological roles of DUX4 in FSHD1,2,0,0.0
+WP5344,Cardiomyocyte signaling pathways converging on Titin,4,0,0.0
+WP5345,1p36 copy number variation syndrome,9,0,0.0
+WP5346,8p23.1 copy number variation syndrome,13,0,0.0
+WP5351,Kleefstra syndrome,2,0,0.0
+WP5352,10q11.21q11.23 copy number variation syndrome,12,0,0.0
+WP5354,Ergosterol biosynthesis,34,0,0.0
+WP5362,TAR syndrome,1,0,0.0
+WP5366,NF1 copy number variation syndrome,4,0,0.0
+WP5368,Sulfatase and aromatase pathway,14,0,0.0
+WP5372,Involvement of δ-secretase in neurodegenerative diseases,2,0,0.0
+WP5373,"Role of hypoxia, angiogenesis, and FGF pathway in OA chondrocyte hypertrophy",3,0,0.0
+WP5385,Growth factors and hormones in Beta-cell proliferation,3,0,0.0
+WP5392,CBD synthetic pathway,10,0,0.0
+WP5394,UDP-derived sugars synthesis in fibroblasts,11,0,0.0
+WP5395,Glycosaminoglycan synthesis in fibroblasts,7,0,0.0
+WP5396,Enterohepatic circulation of bile acids,2,0,0.0
+WP5397,Vitamin A1 and A5/X pathways,7,0,0.0
+WP5405,13q12 or CRYL1 copy number variation,5,0,0.0
+WP5409,PAFAH1B1 copy number variation,1,0,0.0
+WP5414,IDO metabolic pathway,9,0,0.0
+WP543,Synthesis and degradation of ketone bodies,5,0,0.0
+WP545,Complement activation,1,0,0.0
+WP546,Lactose degradation and galactose metabolism,9,0,0.0
+WP547,Complement and coagulation cascades,1,0,0.0
+WP552,Octane oxidation,8,0,0.0
+WP554,ACE inhibitor pathway,10,0,0.0
+WP557,ACE inhibitor pathway,4,0,0.0
+WP558,Complement and coagulation cascades,1,0,0.0
+WP570,Monoamine GPCRs,7,0,0.0
+WP58,Monoamine GPCRs,8,0,0.0
+WP580,Dauer formation,1,0,0.0
+WP60,Toluene degradation,6,0,0.0
+WP622,Long-day flowering time pathway,1,0,0.0
+WP623,Oxidative phosphorylation,5,0,0.0
+WP626,Abscisic acid biosynthesis,5,0,0.0
+WP63,Pentose phosphate pathway,9,0,0.0
+WP656,p53 signal pathway,2,0,0.0
+WP670,Pentose phosphate pathway 2,12,0,0.0
+WP673,ErbB signaling pathway,2,0,0.0
+WP678,Arachidonate epoxygenase / epoxide hydrolase,10,0,0.0
+WP683,Leptin and adiponectin,2,0,0.0
+WP688,Catalytic cycle of mammalian flavin-containing monooxygenases (FMOs),8,0,0.0
+WP690,Polyol pathway,12,0,0.0
+WP691,Tamoxifen metabolism,12,0,0.0
+WP692,Sulfation biotransformation reaction,10,0,0.0
+WP694,Arylamine metabolism,3,0,0.0
+WP696,Benzo(a)pyrene metabolism,7,0,0.0
+WP697,Estrogen metabolism,26,0,0.0
+WP699,Aflatoxin B1 metabolism,7,0,0.0
+WP707,DNA damage response,3,0,0.0
+WP71,Lipases biosynthesis,2,0,0.0
+WP712,Estrogen signaling pathway,2,0,0.0
+WP716,Vitamin A and carotenoid metabolism,19,0,0.0
+WP722,Serotonin HTR1 group and FOS pathway,5,0,0.0
+WP73,G protein signaling pathways,3,0,0.0
+WP732,Serotonin receptor 2 and ELK-SRF/GATA4 signaling,4,0,0.0
+WP734,Serotonin receptor 4/6/7 and NR3C signaling,2,0,0.0
+WP75,Toll-like receptor signaling pathway,1,0,0.0
+WP755,Nuclear receptors in lipid metabolism and toxicity,2,0,0.0
+WP763,Mitochondrial long chain fatty acid beta-oxidation,1,0,0.0
+WP769,MAPK signaling pathway,4,0,0.0
+WP784,Ketone bodies synthesis and degradation,5,0,0.0
+WP793,mRNA processing,1,0,0.0
+WP80,Nucleotide GPCRs,2,0,0.0
+WP801,ACE inhibitor pathway,4,0,0.0
+WP805,Retinol metabolism,9,0,0.0
+WP813,G protein signaling pathways,3,0,0.0
+WP824,Regulation of actin cytoskeleton,1,0,0.0
+WP835,Glycogen metabolism,3,0,0.0
+WP839,Monoamine GPCRs,6,0,0.0
+WP848,Heme biosynthesis,7,0,0.0
+WP854,Eicosanoid synthesis,13,0,0.0
+WP880,MAPK signaling pathway,4,0,0.0
+WP898,Ketone bodies synthesis and degradation,5,0,0.0
+WP906,mRNA Processing,1,0,0.0
+WP91,Fatty acid oxidation,6,0,0.0
+WP915,ACE inhibitor pathway,4,0,0.0
+WP921,Statin pathway,1,0,0.0
+WP925,Aflatoxin B1 metabolism,6,0,0.0
+WP931,G protein signaling pathways,3,0,0.0
+WP936,Polyol pathway,8,0,0.0
+WP955,Glycogen metabolism,3,0,0.0
+WP957,Monoamine GPCRs,4,0,0.0
+WP96,Glycolysis and Gluconeogenesis,9,0,0.0
+WP971,Small ligand GPCRs,2,0,0.0
+WP972,Eicosanoid synthesis,17,0,0.0
+WP977,"Complement activation, classical pathway",1,0,0.0
+WP98,Prostaglandin synthesis and regulation,12,0,0.0
+WP983,DNA replication,6,0,0.0
+WP986,Estrogen signaling pathway,2,0,0.0
+WP988,Transcriptional activation by NRF2,4,0,0.0
+WP989,Mitochondrial long chain fatty acid beta-oxidation,2,0,0.0
+WP993,Arylamine metabolism,3,0,0.0
+WP994,Oxidative phosphorylation,5,0,0.0
+WP995,Prostaglandin synthesis and regulation,9,0,0.0
+WP998,MAPK signaling pathway,4,0,0.0
