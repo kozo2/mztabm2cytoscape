@@ -1,0 +1,15 @@
+[project]
+name = "mztabm2cytoscape"
+version = "0.1.0"
+description = "Map mzTab-M small molecule data onto WikiPathways / Cytoscape."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pymztabm",
+    "pandas>=2.0",
+    "matplotlib>=3.8",
+    "rdkit>=2024.3.1",
+]
+
+[tool.uv.sources]
+pymztabm = { git = "https://github.com/lifs-tools/pymzTab-m.git", branch = "development" }
