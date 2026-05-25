@@ -1,9 +1,11 @@
 """Per-metabolite abundance boxplots from a pickled mzTab-M model.
 
 For each unique non-null InChI in small_molecule_summary, draw a boxplot of
-abundance_assay values grouped by metadata.study_variable. Titles show the
-SmallMoleculeSummary.chemical_name above the InChIKey derived from the InChI.
-Output files are written to output/boxplots/<inchikey>.png.
+abundance_assay values grouped by metadata.study_variable. Boxes are colored
+by study_variable and individual points are overlaid as a jittered scatter.
+Titles show the SmallMoleculeSummary.chemical_name (no InChIKey). Output
+files are named by the first layer of the InChIKey and written to
+output/boxplots/<first_layer>.png.
 """
 
 import pickle
@@ -11,6 +13,7 @@ import re
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import numpy as np
 from rdkit import Chem
 from rdkit import RDLogger
 
@@ -75,10 +78,44 @@ def main() -> None:
                 continue
 
             fig, ax = plt.subplots(figsize=(6, 4.5))
-            ax.boxplot(data, tick_labels=labels)
+            positions = list(range(1, len(data) + 1))
+            cmap = plt.get_cmap("tab10")
+            colors = [cmap(i % cmap.N) for i in range(len(data))]
+
+            bp = ax.boxplot(
+                data,
+                tick_labels=labels,
+                positions=positions,
+                patch_artist=True,
+                showfliers=False,
+            )
+            for patch, color in zip(bp["boxes"], colors):
+                patch.set_facecolor(color)
+                patch.set_alpha(0.5)
+                patch.set_edgecolor("black")
+            for median in bp["medians"]:
+                median.set_color("black")
+
+            rng = np.random.default_rng(0)
+            for pos, values, color in zip(positions, data, colors):
+                jitter = rng.uniform(-0.12, 0.12, size=len(values))
+                ax.scatter(
+                    np.full(len(values), pos) + jitter,
+                    values,
+                    color=color,
+                    edgecolor="black",
+                    linewidth=0.4,
+                    alpha=0.85,
+                    s=24,
+                    zorder=3,
+                )
+
             chemical_name = sm.chemical_name[0] if sm.chemical_name else None
-            title = f"{chemical_name}\n{key}" if chemical_name else key
-            ax.set_title(title)
+            default_title_fs = plt.rcParams["axes.titlesize"]
+            if isinstance(default_title_fs, str):
+                default_title_fs = plt.rcParams["font.size"]
+            title_fontsize = default_title_fs * 3
+            ax.set_title(chemical_name or "", fontsize=title_fontsize)
             ax.set_xlabel("study_variable")
             ax.set_ylabel("abundance_assay")
             fig.tight_layout()
