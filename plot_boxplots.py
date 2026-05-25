@@ -78,7 +78,9 @@ def main() -> None:
                 continue
 
             fig, ax = plt.subplots(figsize=(6, 4.5))
-            positions = list(range(1, len(data) + 1))
+            box_spacing = 0.55
+            box_width = 0.4
+            positions = [1 + i * box_spacing for i in range(len(data))]
             cmap = plt.get_cmap("tab10")
             colors = [cmap(i % cmap.N) for i in range(len(data))]
 
@@ -86,9 +88,11 @@ def main() -> None:
                 data,
                 tick_labels=labels,
                 positions=positions,
+                widths=box_width,
                 patch_artist=True,
                 showfliers=False,
             )
+            ax.set_xlim(positions[0] - box_spacing / 2, positions[-1] + box_spacing / 2)
             for patch, color in zip(bp["boxes"], colors):
                 patch.set_facecolor(color)
                 patch.set_alpha(0.5)
@@ -98,7 +102,7 @@ def main() -> None:
 
             rng = np.random.default_rng(0)
             for pos, values, color in zip(positions, data, colors):
-                jitter = rng.uniform(-0.12, 0.12, size=len(values))
+                jitter = rng.uniform(-box_width * 0.3, box_width * 0.3, size=len(values))
                 ax.scatter(
                     np.full(len(values), pos) + jitter,
                     values,
@@ -118,6 +122,8 @@ def main() -> None:
             ax.set_title(chemical_name or "", fontsize=title_fontsize)
             ax.set_xlabel("study_variable")
             ax.set_ylabel("abundance_assay")
+            tick_fontsize = plt.rcParams["font.size"] * 2
+            ax.tick_params(axis="both", labelsize=tick_fontsize)
             fig.tight_layout()
 
             first_layer = key.split("-", 1)[0]
